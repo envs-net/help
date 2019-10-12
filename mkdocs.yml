@@ -1,0 +1,16 @@
+site_name: envs.net
+site_description: envs.net | help
+repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
+repo_url: https://git.envs.net/envs/help
+
+theme: cyborg
+
+nav:
+    - help: help.md
+    - mail: mail.md
+    - website: website.md
+    - blog: blog.md
+    - database: database.md
+    - gopher: gopher.md
+    - gemini: gemini.md
+    - finger: finger.md

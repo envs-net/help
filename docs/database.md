@@ -1,0 +1,43 @@
+# &#35; user database
+
+## sqlite
+in the spirit of minimalism, the recommended database technology to use here is sqlite. sqlite db's exist as a single, atomic file, and are a good use for light applications, with low to medium concurrent loads.<br>
+it also allows for greater flexibility, and segregation for your application's data: you can create as many sqlite databases as you need.
+
+- [documentation](https://sqlite.org/docs.html)
+- [sqlite cli](https://sqlite.org/cli.html)
+
+## mysql
+
+- [documentation](https://dev.mysql.com/doc/mysql-getting-started/en/)
+
+on `localhost` port `3306`
+
+- database name: `username`
+- database user: `username`
+- password: *see you welcome email*
+
+connecting to mysql:<br />
+&nbsp;&nbsp;`mysql -u username -p`
+
+### database backup & restore
+simple backup:<br />
+&nbsp;&nbsp;`mysqldump "$USER" -p > ~/backup/dump_"$USER".sql`
+
+and restore:<br />
+&nbsp;&nbsp;`mysql -p -u "$USER" < ~/backup/dump_"$USER".sql`
+
+you can also use our `envs_mysql.sh` - backup and restore script.<br />
+the backup files will stored under `~/backup/`.
+
+show `envs_mysql.sh -h` for more informations
+```bash
+Usage: envs_mysql.sh
+			backup				- backup your default user database
+			backup <db_name>	- backup database
+			restore				- restore your latest user database
+			restore <db_name>	- restore database
+```
+
+with cron you can also do your backup regularly at a certain time.<br />
+see [help -&gt; cron](https://envs.net/help/help/#croncrontab) for a example.
