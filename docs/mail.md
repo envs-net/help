@@ -11,12 +11,12 @@ we used [modoboa](https://modoboa.org/) - made multidomain email hosting simple
 | smtp connection-security: | STARTTLS |
 |  |  |
 | imap server-address:      | mail.envs.net |
-| imap server-port:         | 993 |
-| imap connection-security: | SSL/TLS |
+| imap server-port:         | 143 |
+| imap connection-security: | STARTTLS |
 |  |  |
 | pop server-address:       | mail.envs.net |
-| pop server-port:          | 995 |
-| pop connection-security:  | SSL/TLS |
+| pop server-port:          | 110 |
+| pop connection-security:  | STARTTLS |
 
 you can find more mail settings directly in you're [webmail](https://mail.envs.net/user/#profile/).<br />
 (*an secondary e-mail address, can be used for recovery needs*)
