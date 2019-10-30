@@ -40,4 +40,4 @@ Usage: envs_mysql.sh
 ```
 
 with cron you can also do your backup regularly at a certain time.<br />
-see [help -&gt; cron](https://envs.net/help/help/#croncrontab) for a example.
+see [help -&gt; cron](https://help.envs.net/help/#croncrontab) for a example.

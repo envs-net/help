@@ -39,7 +39,7 @@ more infos over the system and the installed packages can you find on the [sysin
 - [znc](https://znc.envs.net/) - irc bouncer - log in with username and your email password
 <br /><br />
 - [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`
-- [getwtxt](https://twtxt.envs.net/) - twtxt registry - microblogging - more on [twtxt](https://envs.net/help/blog/#with-twtxt) help page
+- [getwtxt](https://twtxt.envs.net/) - twtxt registry - microblogging - more on [twtxt](https://help.envs.net/blog/#with-twtxt) help page
 
 ## &#35; DNS-Server
 envs.net has her own dns-master server and use the secondary servers from tildeverse.
