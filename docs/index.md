@@ -49,11 +49,11 @@ envs.net has her own dns-master server and use the secondary servers from tildev
 
 | Name | Address | Location | Type |
 | --- | --- | --- | --- |
-| ns1.envs.net       | 89.163.145.170        | Düsseldorf | master |
-| ns2.envs.net       | 78.31.64.115          | Düsseldorf | slave  |
+| ns1.envs.net       | 89.163.145.170         | Düsseldorf | master |
+| ns2.envs.net       | 78.31.64.115           | Düsseldorf | slave  |
 | | | | |
-| ns1.tildeverse.net | 51.79.32.63           | Montréal   | slave  |
-| ns1.tildeverse.net | 2607:5300:60:823f::63 | Montréal   | slave  |
+| ns1.tildeverse.net | 198.50.128.75          | Montréal   | slave  |
+| ns1.tildeverse.net | 2607:5300:203:5fd5::75 | Montréal   | slave  |
 
 ### master-zones:
 - envs.net
