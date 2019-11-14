@@ -1,4 +1,4 @@
-# &#35; user database
+# # user database
 
 ## sqlite
 in the spirit of minimalism, the recommended database technology to use here is sqlite. sqlite db's exist as a single, atomic file, and are a good use for light applications, with low to medium concurrent loads.<br>

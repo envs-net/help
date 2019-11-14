@@ -1,6 +1,6 @@
 the finger protocol was created way back in 1977. its purpose was to display information about the queried user of a system, or all the users of a system.
 
-# &#35; user finger
+# # user finger
 
 here on envs.net, we run efingerd. see `man efingerd` for more info.<br />
 you can create a script called `~/.efingerd` which will be run when anyone fingers you.

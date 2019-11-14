@@ -1,4 +1,4 @@
-# &#35; user mail
+# # user email
 we use [modoboa](https://modoboa.org/) - made multidomain email hosting simple
 
 |  |  |  |
@@ -16,7 +16,7 @@ we use [modoboa](https://modoboa.org/) - made multidomain email hosting simple
 | pop connection-security:  | STARTTLS | SSL/TLS |
 
 you can find more mail settings directly in your [webmail](https://mail.envs.net/user/#profile/).<br />
-(*an secondary e-mail address, can be used for recovery needs*)
+(*an secondary e-mail address, can be used for recovery needs.*)
 
 managesieve is also supported and is available on the default port `4190`.
 

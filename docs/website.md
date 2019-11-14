@@ -1,4 +1,4 @@
-# &#35; user website
+# # user website
 you're user page is available under
 
 *https://envs.net/~username/*, *https://envs.net/u/username/*,<br />

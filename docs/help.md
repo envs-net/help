@@ -3,10 +3,10 @@
 > *write in irc (#envs) or*<br />
 > *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any other help requests.*
 
-## &#35; show public ip
+## # show public ip
 `curl ip.envs.net`
 
-## &#35; termbin - aliases
+## # termbin - aliases
 `echo 'alias tb="nc tb.envs.net 9999"' >> ~/.bash_aliases`
 
 you can POST a text:<br />
@@ -15,7 +15,7 @@ you can POST a text:<br />
 or Content of a file:<br />
 &nbsp;&nbsp;`cat ~/some_file.txt | tb`<br />
 
-## &#35; the null pointer - aliases
+## # the null pointer - aliases
 add the following lines to you're aliases file `~/.bash_aliases`
 ```bash
 0file() { curl -F"file=@$1" https://envs.sh ; }
@@ -33,7 +33,7 @@ or you can shorten URLs:<br />
 <br />
 *if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)*
 
-## &#35; ssh
+## # ssh
 your ssh directory is: `~/.ssh/` this includes the following files.
 
 - your ssh config file `~/.ssh/config` (more bellow)
@@ -113,20 +113,20 @@ or<br />
 exec a local script<br />
 &nbsp;&nbsp;`ssh envs.net 'bash -s' < local_script.sh`
 
-## &#35; scp usage
+## # scp usage
 copy ssh pub key to remote:<br />
 &nbsp;&nbsp;`scp -P 2223 ~/.ssh/authorized_keys user@envs.net:~/.ssh/authorized_keys`
 
 copy website index.html from remote:<br />
 &nbsp;&nbsp;`scp -P 2223 user@envs.net:~/public_www/index.html ~/public_www/`
 
-## &#35; rsync usage
+## # rsync usage
 sync website to remote:<br />
 &nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" ~/public_www user@envs.net:~`<br />
 sync website from remote:<br />
 &nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" user@envs.net:~/public_www ~/`<br />
 
-## &#35; sftp usage
+## # sftp usage
 connect: `sftp -oPort=2223 user@envs.net`
 
 ### commands:
@@ -157,7 +157,7 @@ add `~/.ssh/authorized_keys:`<br />
 &nbsp;&nbsp;to remote:   `sftp -P 2223 user@envs.net:remotedir <<< $'put localfile_path'`<br />
 &nbsp;&nbsp;from remote: `sftp -P 2223 user@envs.net:remotefile localfile`
 
-## &#35; your shell
+## # your shell
 avaliable shells: `ash`, `bash`, `csh`, `dash`, `elvish`, `fish`, `ksh`, `mksh`, `sash`, `sh`, `tcsh`, `xonsh`, `yash`, `zsh`<br />
 *list all available shells: `more /etc/shells`*
 
@@ -166,7 +166,7 @@ or `chsh -s <path_to_shell>`
 
 example: `chsh -s $(which bash)` or `chsh -s /bin/bash`
 
-## &#35; timezone
+## # timezone
 The timezone by default on the server is UTC.
 
 If you want to make it so that your shell prints out dates in localtime for you,<br />
@@ -178,7 +178,7 @@ to your .bashrc .
 
 to get your timezone you can use `date`.
 
-## &#35; cron/crontab
+## # cron/crontab
 with cron you can run specific tasks at a specific time.
 
 display current crontabs:<br />
@@ -196,7 +196,7 @@ example: - backup your mysql db once per day
 
 for more information see the manual pages of crontab(5) and cron(8)
 
-## &#35; daemonize processes
+## # daemonize processes
 so you've got a process that you want to keep running. you might have it in a<br />
 tmux or screen session. let's use systemd user units to manage it!
 

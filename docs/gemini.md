@@ -11,7 +11,7 @@ Gemini is a new internet protocol which:
 
 we're trying to keep this cool corner of the web alive.
 
-# &#35; user gemini
+# # user gemini
 
 main gemini page: `gemini://envs.net`<br />
 

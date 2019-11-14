@@ -1,4 +1,4 @@
-# &#35; user blog
+# # user blog
 you're blog is available under *https://envs.net/~username/blog* and *https://username.envs.net/blog*.<br />
 and you can also use any other blogging software. ;)
 

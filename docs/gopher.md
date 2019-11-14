@@ -2,7 +2,7 @@ the [gopher protocol](http://en.wikipedia.org/wiki/Gopher_(protocol)) was create
 
 we're trying to keep this cool corner of the web alive.
 
-# &#35; user gopher
+# # user gopher
 
 main gopher page: `gopher://envs.net`
 
