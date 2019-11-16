@@ -166,6 +166,18 @@ or `chsh -s <path_to_shell>`
 
 example: `chsh -s $(which bash)` or `chsh -s /bin/bash`
 
+### default byobu-session
+familiar with tmux, continue as normal, but with ctrl-a instead of ctrl-b<br>
+if you don't want to this happen by default when you log in, run byobu-disable.<br>
+
+`man byobu` for more info.
+
+press shift-f1 for a full list of keybinds<br>
+f2 creates a new tab<br>
+f3 and f4 move you between tabs<br>
+f6 disconnects and leaves everything running<br>
+shift-f12 disable/enable byobu f-key bindings
+
 ## # timezone
 The timezone by default on the server is UTC.
 
