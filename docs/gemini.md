@@ -1,4 +1,4 @@
-the [gemini protocol](gopher://zaibatsu.circumlunar.space:70/1/~solderpunk/gemini)(only via gopher) was created in 2019.
+the [gemini protocol](gopher://zaibatsu.circumlunar.space:70/1/~solderpunk/gemini) (only available via gopher) was created in 2019.
 
 Gemini is a new internet protocol which:
 
