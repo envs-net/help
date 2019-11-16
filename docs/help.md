@@ -168,7 +168,7 @@ example: `chsh -s $(which bash)` or `chsh -s /bin/bash`
 
 ### default byobu-session
 familiar with tmux, continue as normal, but with ctrl-a instead of ctrl-b<br>
-if you don't want to this happen by default when you log in, run byobu-disable.<br>
+if you don't want to this happen by default when you log in, run `byobu-disable`.<br>
 
 `man byobu` for more info.
 
