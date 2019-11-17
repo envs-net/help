@@ -12,12 +12,12 @@ more infos over the system and the installed packages can you find on the [sysin
 - 200 process/threads at a time
 - [E-mail](https://help.envs.net/mail/) (250mb Mailbox)
 - some more services like:<br>
-  [Website](https://help.envs.net/website/) /
-  [Blog](https://help.envs.net/blog/) /
-  [Databases](https://help.envs.net/database/) /
-  [Gopher](https://help.envs.net/gopher/) /
-  [Gemini](https://help.envs.net/gemini/) /
-  [Finger](https://help.envs.net/finger/) and much more.
+  [website](https://help.envs.net/website/) /
+  [blog](https://help.envs.net/blog/) /
+  [databases](https://help.envs.net/database/) /
+  [gopher](https://help.envs.net/gopher/) /
+  [gemini](https://help.envs.net/gemini/) /
+  [finger](https://help.envs.net/finger/) and much more.
 
 # services
 
