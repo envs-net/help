@@ -10,7 +10,7 @@ more infos over the system and the installed packages can you find on the [sysin
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - soft 1024mb/hard 1536mb limit on storage
 - 200 process/threads at a time
-- [e-mail](https://help.envs.net/mail/) (250mb Mailbox)
+- [e-mail](https://help.envs.net/mail/) (250mb mailbox storage)
 - some more services like:<br>
   [website](https://help.envs.net/website/) /
   [blog](https://help.envs.net/blog/) /
