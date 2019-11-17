@@ -6,6 +6,14 @@
 # System Info
 more infos over the system and the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).
 
+# User Account Features
+- terminal connection over ssh and mosh
+- soft 1024mb/hard 1536mb limit on storage
+- 200 process/threads at a time
+- E-mail (250mb Mailbox)
+- some more Services like:
+  Website / Blog / Databases / Gopher / Gemini / Finger and much more.
+
 # Services
 
 ## # code related stuff
