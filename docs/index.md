@@ -3,7 +3,7 @@
 > *write in irc (#envs) or*<br />
 > *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any help requests.*
 
-# system Info
+# system info
 more infos over the system and the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).
 
 # user account features
@@ -55,10 +55,8 @@ more infos over the system and the installed packages can you find on the [sysin
 - [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`
 - [getwtxt](https://twtxt.envs.net/) - twtxt registry - microblogging - more on [twtxt](https://help.envs.net/blog/#with-twtxt) help page
 
-## # DNS-Server
+## # dns-server
 envs.net has her own dns master & slave server and use a additional slave from tildeverse.
-
-[repo on gitea](https://git.envs.net/envs/DNS/)
 
 | Name | Address | Location | Type |
 | --- | --- | --- | --- |
@@ -76,4 +74,5 @@ envs.net has her own dns master & slave server and use a additional slave from t
 
 ### slave server for:
 - tildeverse.org
-- tilde.team
+    - tilde.team
+    - and some more aliases
