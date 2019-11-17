@@ -3,18 +3,23 @@
 > *write in irc (#envs) or*<br />
 > *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any help requests.*
 
-# System Info
+# system Info
 more infos over the system and the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).
 
-# User Account Features
-- terminal connection over ssh and mosh
+# user account features
+- terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - soft 1024mb/hard 1536mb limit on storage
 - 200 process/threads at a time
-- E-mail (250mb Mailbox)
-- some more Services like:
-  Website / Blog / Databases / Gopher / Gemini / Finger and much more.
+- [E-mail](https://help.envs.net/mail/) (250mb Mailbox)
+- some more services like:<br>
+  [Website](https://help.envs.net/website/) /
+  [Blog](https://help.envs.net/blog/) /
+  [Databases](https://help.envs.net/database/) /
+  [Gopher](https://help.envs.net/gopher/) /
+  [Gemini](https://help.envs.net/gemini/) /
+  [Finger](https://help.envs.net/finger/) and much more.
 
-# Services
+# services
 
 ## # code related stuff
 - [gitea](https://git.envs.net/) - members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
@@ -51,7 +56,7 @@ more infos over the system and the installed packages can you find on the [sysin
 - [getwtxt](https://twtxt.envs.net/) - twtxt registry - microblogging - more on [twtxt](https://help.envs.net/blog/#with-twtxt) help page
 
 ## # DNS-Server
-envs.net has her own dns-master server and use the secondary servers from tildeverse.
+envs.net has her own dns master & slave server and use a additional slave from tildeverse.
 
 [repo on gitea](https://git.envs.net/envs/DNS/)
 

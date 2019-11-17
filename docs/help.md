@@ -1,4 +1,4 @@
-# help
+# basic help
 
 > *write in irc (#envs) or*<br />
 > *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any other help requests.*
