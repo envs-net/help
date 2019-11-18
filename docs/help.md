@@ -50,7 +50,7 @@ so, for example, you can do:<br />
 or for the secondary ip:<br />
 &nbsp;&nbsp;`ssh -p443 user@ssh.envs.net`<br />
 <br />
-if you have a slightly shaky connection then you can also use `mosh`.
+***if you have a slightly shaky connection then you can also use `mosh`.***
 
 ### create a ssh-key
 make sure you have a `~/.ssh directory`<br />

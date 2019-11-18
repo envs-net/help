@@ -11,7 +11,7 @@ more infos over the system and the installed packages can you find on the [sysin
 - soft 1024mb/hard 1536mb limit on storage
 - 200 process/threads at a time
 - [e-mail](https://help.envs.net/mail/) (250mb mailbox storage)
-- some more services like:<br>
+- some more services like:<br />
   [website](https://help.envs.net/website/) /
   [blog](https://help.envs.net/blog/) /
   [databases](https://help.envs.net/database/) /
@@ -45,7 +45,7 @@ more infos over the system and the installed packages can you find on the [sysin
 
 ## # social/communications
 - [bbj](https://bbj.envs.net/) - forum
-- [email](https://mail.envs.net/) - webmail, smtp/imap, mutt, neomutt
+- [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
 - [irc](https://envs.net/chat/) - irc network for the tildeverse
@@ -73,6 +73,7 @@ envs.net has her own dns master & slave server and use a additional slave from t
 - envs.tilde
 
 ### slave server for:
-- tildeverse.org
-    - tilde.team
+- tildeverse.org / tildeverse.net
+- tilde.team
+    - ttm.sh
     - and some more aliases
