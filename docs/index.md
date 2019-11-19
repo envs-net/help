@@ -22,7 +22,8 @@ more infos over the system and the installed packages can you find on the [sysin
 # services
 
 ## # code related stuff
-- [gitea](https://git.envs.net/) - members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
+- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution<br />
+members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
 
 ## # general utilities
 - [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
