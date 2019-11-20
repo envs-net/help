@@ -24,4 +24,3 @@ nav:
         - common commands: tutorials/learngit/docs/common_commands.md
         - branching strategies: tutorials/learngit/docs/branching_strategies.md
         - troubleshooting: tutorials/learngit/docs/troubleshooting.md
-        - ssh setup: tutorials/learngit/docs/ssh_setup.md
