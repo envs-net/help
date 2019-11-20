@@ -19,7 +19,7 @@ nav:
     - finger: finger.md
 - tutorials:
     - learn git:
-        - home: tutorials/learngit/docs/README.md
+        - home: tutorials/learngit/docs/index.md
         - glossary: tutorials/learngit/docs/glossary.md
         - common commands: tutorials/learngit/docs/common_commands.md
         - branching strategies: tutorials/learngit/docs/branching_strategies.md
