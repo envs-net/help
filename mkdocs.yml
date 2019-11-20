@@ -17,3 +17,11 @@ nav:
     - gopher: gopher.md
     - gemini: gemini.md
     - finger: finger.md
+- advanced guides:
+    - learn git:
+        - home: adv_guides/learngit/README.md
+        - glossary: adv_guides/learngit/glossary.md
+        - common commands: adv_guides/learngit/common_commands.md
+        - branching strategies: adv_guides/learngit/branching_strategies.md
+        - troubleshooting: adv_guides/learngit/troubleshooting.md
+        - ssh setup: adv_guides/learngit/ssh_setup.md

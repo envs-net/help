@@ -1,0 +1,3 @@
+[submodule "docs/adv_guides/learngit"]
+	path = docs/adv_guides/learngit
+	url = https://github.com/benharri/learngit.git
