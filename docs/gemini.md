@@ -1,12 +1,12 @@
 the [gemini protocol](gopher://zaibatsu.circumlunar.space:70/1/~solderpunk/gemini) (only available via gopher) was created in 2019.
 
-Gemini is a new internet protocol which:
+gemini is a new internet protocol which:
 
-- Is heavier than gopher
-- Is lighter than the web
-- Will not replace either
-- Strives for maximum power to weight ratio
-- Takes user privacy very seriously
+- is heavier than gopher
+- is lighter than the web
+- will not replace either
+- strives for maximum power to weight ratio
+- takes user privacy very seriously
 
 
 we're trying to keep this cool corner of the web alive.

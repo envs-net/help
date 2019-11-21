@@ -31,7 +31,7 @@ our twtxt registry server and more information about it can be found on: [https:
 ## with [bashblog](https://github.com/envs-net/bashblog)
 **available system-wide as `bb`**
 
-A single Bash script to create blogs.
+a single Bash script to create blogs.
 
 ### usage
 - `bb post` or `bb post --html` - to use html

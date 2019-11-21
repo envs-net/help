@@ -32,7 +32,7 @@ the backup files will stored under `~/backup/`.
 
 show `envs_mysql.sh -h` for more informations
 ```bash
-Usage: envs_mysql.sh
+usage: envs_mysql.sh
 			backup				- backup your default user database
 			backup <db_name>	- backup database
 			restore				- restore your latest user database

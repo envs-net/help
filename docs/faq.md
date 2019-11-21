@@ -3,7 +3,7 @@
 ## Q: how do i sign up for an account?
 simply by going to our [signup page](https://envs.net/signup/) and filling in the form.
 
-## Q: can I get a package installed?
+## Q: can i get a package installed?
 probably! send an email with your suggestion to [sudoers@envs.net](mailto:sudoers@envs.net).
 
 ## Q: how can i disable the default byobu-session?
