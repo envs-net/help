@@ -190,8 +190,12 @@ to your .bashrc .
 
 to get your timezone you can use `date`.
 
-## # cron/crontab
-with cron you can run specific tasks at a specific time.
+## # scheduled activity
+the linux utilities `cron` and `at` are related commands. you might use crontab, for example, to perform a task each morning at 2 a.m., and use at to remind yourself of an appointment later in the day.
+
+### cron/crontab
+the cron utility allows you to schedule a repetitive task to take place at any regular interval desired.<br />
+for more information see the manual pages of crontab(5) and cron(8)
 
 display current crontabs:<br />
 &nbsp;&nbsp;`crontab -l`
@@ -202,11 +206,27 @@ add/edit crontabs:<br />
 example: - backup your mysql db once per day
 ```bash
 ..
+# NOTE: * To disable email notifications use:
+#         - for single cronjobs use after the cmd: >/dev/null 2>&1
+#         - comment out to disable all email alerts in the crontab:
+#MAILTO=""
 # m h	dom	mon	dow	command
 0 	0	*	*	*	/usr/local/bin/envs_mysql.sh backup
 ```
 
-for more information see the manual pages of crontab(5) and cron(8)
+### at
+the at command lets you specify a one-time action to take place at some desired time.<br />
+for more information see the manual page of at.
+
+example:<br />
+`echo 'my test in one minute' | at now + 1 min`
+
+view your at queue:<br />
+&nbsp;&nbsp;`at -l` or `atq`<br />
+`2       Sun Dec 29 14:03:00 2019 a creme`
+
+delete at job id 2:<br />
+&nbsp;&nbsp;`at -r 2` or `atrm 2`
 
 ## # daemonize processes
 so you've got a process that you want to keep running. you might have it in a<br />
