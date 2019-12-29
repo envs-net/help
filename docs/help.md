@@ -218,8 +218,15 @@ example: - backup your mysql db once per day
 the at command lets you specify a one-time action to take place at some desired time.<br />
 for more information see the manual page of at.
 
-example:<br />
-`echo 'my test in one minute' | at now + 1 min`
+examples:
+```bash
+# schedule task to execute just after 1 hour.
+echo 'sh myscript.sh' | at now + 1 hour
+# schedule task at 10:00 AM on coming sunday.
+echo 'sh myscript.sh' | at 10:00 AM Sun
+# schedule task to execute at midnight.
+echo 'sh myscript.sh' | at midnight
+```
 
 view your at queue:<br />
 &nbsp;&nbsp;`at -l` or `atq`<br />
