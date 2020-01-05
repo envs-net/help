@@ -49,9 +49,10 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
-- [matrix](https://matrix.envs.net/) - matrix - secure, decentralised, real-time communication<br />
-***we have a bridge between channel #envs on matrix and irc.***
-<br /><br />
+- [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication
+<br />
+***&gt; we have a bridge between channel #envs on matrix and irc. &lt;***
+<br />
 - [irc](https://envs.net/chat/irc) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - log in with username and your email password
