@@ -31,7 +31,7 @@ you can also POST remote URLs:<br />
 or you can shorten URLs:<br />
 &nbsp;&nbsp;`0short "https://example.com/some/long/url"`<br />
 <br />
-*if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)*
+***if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)***
 
 ## # ssh
 your ssh directory is: `~/.ssh/` this includes the following files.
