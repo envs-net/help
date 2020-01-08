@@ -1,6 +1,6 @@
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
-> *write in irc (#envs) or*<br />
+> *write in irc/matrix channel `#envs` or*<br />
 > *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any help requests.*
 
 # system info
