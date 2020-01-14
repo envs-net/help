@@ -56,7 +56,7 @@ example `index.html`:
 example `index.php`:
 ```php
 <?php
-  header('Location: https://www.w3docs.com/', true, 301);
+  header('Location: https://www.w3docs.com/', true, 302);
   exit();
 ?>
 ```
