@@ -17,17 +17,17 @@ on `localhost` port `3306`
 - database user: `username`
 - password: *see you welcome email*
 
+*do not store password change to history:*<br />
+&nbsp;&nbsp;*`export MYSQL_HISTFILE=/dev/null`*
+
 connecting to mysql:<br />
 &nbsp;&nbsp;`mysql -u username -p`
 
+change your password:<br />
+&nbsp;&nbsp;`SET PASSWORD = PASSWORD('your-password-here');`
+
 use database:<br />
 &nbsp;&nbsp;`use username`
-
-change your password:<br />
-*do not store password change to history:*<br />
-*`export MYSQL_HISTFILE=/dev/null`*
-
-&nbsp;&nbsp;`SET PASSWORD = PASSWORD('your-password-here');`
 
 ### database backup & restore
 simple backup:<br />
