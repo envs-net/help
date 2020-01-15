@@ -20,6 +20,12 @@ on `localhost` port `3306`
 connecting to mysql:<br />
 &nbsp;&nbsp;`mysql -u username -p`
 
+use database:<br />
+&nbsp;&nbsp;`use username`
+
+change your password:<br />
+&nbsp;&nbsp;`SET PASSWORD = PASSWORD('your-password-here');`
+
 ### database backup & restore
 simple backup:<br />
 &nbsp;&nbsp;`mysqldump "$USER" -p > ~/backup/dump_"$USER".sql`
