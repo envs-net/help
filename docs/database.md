@@ -24,6 +24,9 @@ use database:<br />
 &nbsp;&nbsp;`use username`
 
 change your password:<br />
+*do not store password change to history:*<br />
+*`export MYSQL_HISTFILE=/dev/null`*
+
 &nbsp;&nbsp;`SET PASSWORD = PASSWORD('your-password-here');`
 
 ### database backup & restore
