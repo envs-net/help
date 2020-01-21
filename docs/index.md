@@ -49,16 +49,21 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
+- [getwtxt](https://twtxt.envs.net/) - microblogging - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
+- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network
+    - also available via gopher: `gopher://pleroma.envs.net:7070` ([http proxy](https://gopher.tildeverse.org/pleroma.tilde.zone:7070))
+    - [mastodon fe](https://pleroma.envs.net/web) - a webclient for pleroma which looks like mastodon
+    - [halcyon](https://halcyon.envs.net/) - a webclient for pleroma which looks like twitter
+<br /><br />
 - [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication
 <br />
-***&gt; we have a bridge between channel #envs on matrix and irc. &lt;***
+***( we have a bridge between channel #envs on matrix and irc. )***
 <br />
 - [irc](https://envs.net/chat/irc) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - log in with username and your email password
 <br /><br />
 - [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`
-- [getwtxt](https://twtxt.envs.net/) - twtxt registry - microblogging - more on [twtxt](https://help.envs.net/blog/#with-twtxt) help page
 
 ## # dns-server
 envs.net has her own dns master & slave server and use a additional slave from tildeverse.
