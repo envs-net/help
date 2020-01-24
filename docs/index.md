@@ -57,11 +57,11 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 <br /><br />
 - [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication
 <br />
-***( we have a bridge between channel #envs on matrix and irc. )***
+***( note: we have a bridge between channel #envs on matrix and irc. )***
 <br />
 - [irc](https://envs.net/chat/irc) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
-- [znc](https://znc.envs.net/) - irc bouncer - log in with username and your email password
+- [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
 <br /><br />
 - [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`
 
