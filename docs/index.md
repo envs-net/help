@@ -50,7 +50,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
-- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network
+- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - [what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
     - also available via gopher: `gopher://pleroma.envs.net:7070` ([http proxy](https://gopher.tildeverse.org/pleroma.tilde.zone:7070))
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient for pleroma which looks like mastodon
     - [halcyon](https://halcyon.envs.net/) - a webclient for pleroma which looks like twitter
