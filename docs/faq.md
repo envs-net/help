@@ -23,4 +23,4 @@ no. due to security issues, we cannot. however! you can certainly use an [ssh-tu
 
 ## Q: can i make my scripts available to other users?
 yeah very much like. you can simply use `envs submit` on the shell to submit your script. :)<br />
-with `envs list` you can have all userscripts displayed.
+with `envs list` you can display all userscripts.
