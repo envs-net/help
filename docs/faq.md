@@ -20,3 +20,7 @@ probably! send an message in our irc-channel #envs or a email with your suggesti
 
 ## Q: can i open the port for service i have running?
 no. due to security issues, we cannot. however! you can certainly use an [ssh-tunnel](https://help.envs.net/help/#ssh-tunnels) to access it.
+
+## Q: can i make my scripts available to other users?
+yeah very much like. you can simply use `envs submit` on the shell to submit your script. :)<br />
+with `envs list` you can have all userscripts displayed.
