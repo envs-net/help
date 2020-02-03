@@ -1,13 +1,17 @@
 # # user database
 
-## sqlite
+## sqlite (preferred)
 in the spirit of minimalism, the recommended database technology to use here is sqlite. sqlite db's exist as a single, atomic file, and are a good use for light applications, with low to medium concurrent loads.<br>
 it also allows for greater flexibility, and segregation for your application's data: you can create as many sqlite databases as you need.
 
 - [documentation](https://sqlite.org/docs.html)
 - [sqlite cli](https://sqlite.org/cli.html)
 
-## mysql
+## optional
+
+please contact <a href="https://envs.net/~creme/">creme</a> (via irc/matrix or email) to request a database with access.
+
+### mysql
 
 - [documentation](https://dev.mysql.com/doc/mysql-getting-started/en/)
 
@@ -15,7 +19,7 @@ on `localhost` port `3306`
 
 - database name: `username`
 - database user: `username`
-- password: *see you welcome email*
+- password: *please see in your database readme email*
 
 *do not store password change to history:*<br />
 &nbsp;&nbsp;*`export MYSQL_HISTFILE=/dev/null`*
@@ -29,7 +33,7 @@ change your password:<br />
 use database:<br />
 &nbsp;&nbsp;`use username`
 
-### database backup & restore
+#### database backup & restore
 simple backup:<br />
 &nbsp;&nbsp;`mysqldump "$USER" -p > ~/backup/dump_"$USER".sql`
 
