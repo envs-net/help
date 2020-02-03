@@ -18,10 +18,10 @@ nav:
     - gemini: gemini.md
     - finger: finger.md
 - tutorials:
+    - bash guide: tutorials/bash-guide/README.md
     - learn git:
         - home: tutorials/learngit/docs/index.md
         - glossary: tutorials/learngit/docs/glossary.md
         - common commands: tutorials/learngit/docs/common_commands.md
         - branching strategies: tutorials/learngit/docs/branching_strategies.md
         - troubleshooting: tutorials/learngit/docs/troubleshooting.md
-    - bash guide: tutorials/bash-guide/README.md
