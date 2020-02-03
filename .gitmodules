@@ -1,3 +1,7 @@
 [submodule "docs/tutorials/learngit"]
 	path = docs/tutorials/learngit
 	url = https://github.com/envs-net/learngit.git
+
+[submodule "docs/tutorials/bash-guide"]
+	path = docs/tutorials/bash-guide
+	url = https://github.com/Idnan/bash-guide.git
