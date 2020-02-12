@@ -19,7 +19,7 @@ or Content of a file:<br />
 add the following lines to you're aliases file `~/.bash_aliases`
 ```bash
 0file() { curl -F"file=@$1" https://envs.sh ; }
-0pb() { curl -F'file=@-;' https://envs.sh ; }
+0pb() { curl -F"file=@-;" https://envs.sh ; }
 0url() { curl -F"url=$1" https://envs.sh ; }
 0short() { curl -F"shorten=$1" https://envs.sh ; }
 ```
@@ -42,7 +42,7 @@ your ssh directory is: `~/.ssh/` this includes the following files.
 
 - your ssh config file `~/.ssh/config` (more bellow)
 - the `authorized_keys`-file is a list of public keys (one per line) that are allowed to log in to your user account.
-- `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519` or `id_rsa.pub` are the corresponding pubkey.
+- `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519.pub` or `id_rsa.pub` are the corresponding pubkey.
 
 envs.net ECDSA key fingerprint is `SHA256:U0C6SKGXUflve16m2l4KWBdLLARW6O8TiGWZsXAU2i4`.
 
