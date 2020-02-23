@@ -1,7 +1,7 @@
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
-> *write in irc/matrix channel `#envs` or*<br />
-> *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any help requests.*
+> *write in irc/matrix channel `#envs`*<br />
+> *for any help requests.*
 
 # system info
 more infos over the system and the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).

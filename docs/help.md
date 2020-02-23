@@ -1,7 +1,7 @@
 # basic help
 
-> *write in irc/matrix channel `#envs` or*<br />
-> *contact [sudoers@envs.net](mailto:sudoers@envs.net) for any other help requests.*
+> *write in irc/matrix channel `#envs`*<br />
+> *for any other help requests.*
 
 ## # show public ip
 `curl ip.envs.net`
