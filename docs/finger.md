@@ -19,6 +19,9 @@ for example, say you want to use it as a personal summary, like having a blurb a
 
 for a more traditional social network style format, put dated and timed status updates as if you're tooting on a mastodon instance. the sky's the limit! Well, actually, text is the limit. but you get the idea. right?
 
+## .pronouns
+save your pronouns in your `~/.pronouns` file.
+
 ## .project
 in the `~/.project` file you can deposit information about your projects.
 
