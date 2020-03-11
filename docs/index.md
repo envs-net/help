@@ -30,6 +30,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [cryptpad](https://pad.envs.net/) - collaborative real time editing
     - [cryptdrive](https://pad.envs.net/drive/)
     - [rich text](https://pad.envs.net/pad/)
+    - [spreadsheets](https://pad.envs.net/sheet/)
     - [markdown/code editor](https://pad.envs.net/code/)
     - [presentation slides editor](https://pad.envs.net/slide/)
     - [polls](https://pad.envs.net/poll/)

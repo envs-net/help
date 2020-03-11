@@ -28,5 +28,5 @@ if you're currently connected from a envs.net shell, you can use the following b
 - [`bombadillo`](https://tildegit.org/sloum/bombadillo)
     - `bombadillo gemini://envs.net`
 
-if you want to access the gemini site in your public_gemini dir, use the following link structure:
-&nbsp;&nbsp;`gemini://envs.net/~username`<br />
+if you want to access the gemini site in your public_gemini dir, use the following link structure:<br />
+&nbsp;&nbsp;`gemini://envs.net/~username`
