@@ -57,7 +57,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [halcyon](https://halcyon.envs.net/) - a twitter-like webclient
     - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
 <br /><br />
-- [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication. (with riot-web client)
+- [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication. (with riot-web client and including audio- and video calls)
     - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like riot.
     - [jitsi-meet](https://jitsi.envs.net/) - secure, simple and scalable video conferences that you use as a standalone app or embed in your web application.
 <br />
