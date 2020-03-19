@@ -61,7 +61,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like riot.
     - [jitsi-meet](https://jitsi.envs.net/) - secure, simple and scalable video conferences that you use as a standalone app or embed in your web application.
 <br />
-***note: we have a bridge between channel #envs on matrix and irc.***
+- ***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
 <br />
 - [irc](https://envs.net/chat/irc) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
