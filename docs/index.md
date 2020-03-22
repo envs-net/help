@@ -3,9 +3,6 @@
 > *write in irc/matrix channel `#envs`*<br />
 > *for any help requests.*
 
-# system info
-more infos over the system and the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).
-
 # user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - soft 1024mb/hard 1536mb limit on storage
@@ -17,7 +14,7 @@ more infos over the system and the installed packages can you find on the [sysin
   [databases](https://help.envs.net/database/) /
   [gopher](https://help.envs.net/gopher/) /
   [gemini](https://help.envs.net/gemini/) /
-  [finger](https://help.envs.net/finger/) and much more.
+  [finger](https://help.envs.net/finger/) and much more ..
 
 # services
 
@@ -45,7 +42,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
 - [ip address info](https://ip.envs.net/)
 
-## # social/communications
+## # social / communications
 - [bbj](https://bbj.envs.net/) - forum
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
@@ -67,27 +64,4 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
 <br /><br />
-- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`
-
-## # dns-server
-envs.net has her own dns master & slave server and use a additional slave from tildeverse.
-
-| Name | Address | Location | Type |
-| --- | --- | --- | --- |
-| ns1.envs.net       | 89.163.145.170         | Düsseldorf | master |
-| ns2.envs.net       | 78.31.64.115           | Düsseldorf | slave  |
-| | | | |
-| ns1.tildeverse.net | 198.50.128.75          | Montréal   | slave  |
-| ns1.tildeverse.net | 2607:5300:203:5fd5::75 | Montréal   | slave  |
-
-### master-zones:
-- envs.net
-- envs.sh
-- envs.o
-- envs.tilde
-
-### slave server for:
-- tildeverse.org / tildeverse.net
-- tilde.team
-    - ttm.sh
-    - and some more aliases
+- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net` (on port 70)

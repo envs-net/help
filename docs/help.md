@@ -44,7 +44,8 @@ your ssh directory is: `~/.ssh/` this includes the following files.
 - the `authorized_keys`-file is a list of public keys (one per line) that are allowed to log in to your user account.
 - `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519.pub` or `id_rsa.pub` are the corresponding pubkey.
 
-envs.net ECDSA key fingerprint is `SHA256:U0C6SKGXUflve16m2l4KWBdLLARW6O8TiGWZsXAU2i4`.
+envs.net ED25519 key fingerprint is `SHA256:V+mXTsRJ+jfJMxxPlD/28dpWouuns3Wuqwppv6ykVC8` and for<br />
+RSA `SHA256:7dB470mfzlyhhtqmjnXciIxp+jWLACiYKC3EE/Z0lFg`.
 
 the key fingerprints are in dns as sshfp records as well, which you can check against<br>
 by setting VerifyHostKeyDNS to yes in your `~/.ssh/config`.
