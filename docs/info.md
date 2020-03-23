@@ -2,11 +2,14 @@
 
 envs - located in germany.
 
-more infos over the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/).
+builder & maintainer: [creme](https://envs.net/~creme/)
+
+more infos over the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
+as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
 
 ## # sshfp
 
-| algorithm | fingerprint |
+| Algorithm | Fingerprint |
 | --- | --- |
 | RSA       | `SHA256:7dB470mfzlyhhtqmjnXciIxp+jWLACiYKC3EE/Z0lFg` |
 | ECDSA     | `SHA256:U0C6SKGXUflve16m2l4KWBdLLARW6O8TiGWZsXAU2i4` |
