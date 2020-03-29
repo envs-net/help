@@ -47,6 +47,8 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
+- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net` (on port 70)
+<br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
 - [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - [what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
     - **[envs news and blog](https://pleroma.envs.net/envs)**
@@ -54,14 +56,13 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [halcyon](https://halcyon.envs.net/) - a twitter-like webclient
     - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
 <br /><br />
-- [matrix](https://matrix.envs.net/) - secure, decentralised, real-time communication. (with riot-web client and including audio- and video calls)
+- [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
+    - [riot-web](https://matrix.envs.net/) - riot-web client for matrix. audio- and video calls are also possible in this.
     - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like riot.
-    - [jitsi-meet](https://jitsi.envs.net/) - secure, simple and scalable video conferences that you use as a standalone app or embed in your web application.
-<br />
-- ***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
-<br />
-- [irc](https://envs.net/chat/irc) - irc network for the tildeverse
+    - [jitsi-meet](https://jitsi.envs.net/) - secure, simple and scalable video conferences that you use as a standalone app or embed in your web application.<br />
+
+***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
+
+- [irc](https://envs.net/chat/irc/) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
-<br /><br />
-- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net` (on port 70)

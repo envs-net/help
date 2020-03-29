@@ -1,8 +1,8 @@
 # system info
 
-envs - located in germany.
+envs is hosted in germany.
 
-builder & maintainer: [creme](https://envs.net/~creme/)
+builder & maintainer is [creme](https://envs.net/~creme/).
 
 more infos over the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
 as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
