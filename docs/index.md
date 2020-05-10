@@ -58,8 +58,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
     - [riot-web](https://matrix.envs.net/) - riot-web client for matrix. audio- and video calls are also possible in this.
-    - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like riot.
-    - [jitsi-meet](https://jitsi.envs.net/) - secure, simple and scalable video conferences that you use as a standalone app or embed in your web application.<br />
+    - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like riot.<br />
 
 ***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
 
