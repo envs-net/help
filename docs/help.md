@@ -38,11 +38,14 @@ or you can shorten URLs:<br />
 ***if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)***
 
 ## # ssh
+
 your ssh directory is: `~/.ssh/` this includes the following files.
 
 - your ssh config file `~/.ssh/config` (more bellow)
 - the `authorized_keys`-file is a list of public keys (one per line) that are allowed to log in to your user account.
 - `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519.pub` or `id_rsa.pub` are the corresponding pubkey.
+
+- **[ssh windows usage](inc/ssh-windows.md)**
 
 envs.net ED25519 key fingerprint is `SHA256:V+mXTsRJ+jfJMxxPlD/28dpWouuns3Wuqwppv6ykVC8` and for<br />
 RSA `SHA256:7dB470mfzlyhhtqmjnXciIxp+jWLACiYKC3EE/Z0lFg`.
