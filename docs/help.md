@@ -38,7 +38,6 @@ or you can shorten URLs:<br />
 ***if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)***
 
 ## # ssh
-
 your ssh directory is: `~/.ssh/` this includes the following files.
 
 - your ssh config file `~/.ssh/config` (more bellow)
