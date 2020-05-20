@@ -19,9 +19,10 @@
 # services
 
 ## # code related stuff
-- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution<br />
+- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.<br />
 members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
-- [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform
+- [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.<br />
+(includes a "drone-ssh-runner" and "drone-docker-runner".)
 
 ## # general utilities
 - [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
