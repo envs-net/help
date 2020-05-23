@@ -1,3 +1,3 @@
-# envs.net - help
+# envs.net - help [![Build Status](https://drone.envs.net/api/badges/envs/help/status.svg)](https://drone.envs.net/envs/help)
 
 partially forked from: [tilde.team - wiki](https://tildegit.org/team/site/src/branch/master/wiki/)
