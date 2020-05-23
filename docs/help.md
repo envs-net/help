@@ -65,8 +65,10 @@ or for the secondary ip:<br />
 <br />
 ***if you have a slightly shaky connection then you can also use `mosh`.***
 
-- [ssh windows usage](inc/ssh-windows.md)
-- [ssh mac usage](inc/ssh-mac.md)
+---
+
+&gt; [ssh windows usage](inc/ssh-windows.md)
+&gt; [ssh mac usage](inc/ssh-mac.md)
 
 ### create a ssh-key
 make sure you have a `~/.ssh directory`<br />
