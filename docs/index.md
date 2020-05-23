@@ -54,9 +54,9 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
 - [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - [what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
     - **[envs news and blog](https://pleroma.envs.net/envs)**
+    - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient looks like mastodon
     - [halcyon](https://halcyon.envs.net/) - a twitter-like webclient
-    - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
     - [riot-web](https://matrix.envs.net/) - riot-web client for matrix. audio- and video calls are also possible in this.
