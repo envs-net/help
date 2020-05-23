@@ -44,8 +44,6 @@ your ssh directory is: `~/.ssh/` this includes the following files.
 - the `authorized_keys`-file is a list of public keys (one per line) that are allowed to log in to your user account.
 - `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519.pub` or `id_rsa.pub` are the corresponding pubkey.
 
-- **[ssh windows usage](inc/ssh-windows.md)**
-
 envs.net ED25519 key fingerprint is `SHA256:V+mXTsRJ+jfJMxxPlD/28dpWouuns3Wuqwppv6ykVC8` and for<br />
 RSA `SHA256:7dB470mfzlyhhtqmjnXciIxp+jWLACiYKC3EE/Z0lFg`.
 
@@ -66,6 +64,9 @@ or for the secondary ip:<br />
 &nbsp;&nbsp;`ssh -p443 user@ssh.envs.net`<br />
 <br />
 ***if you have a slightly shaky connection then you can also use `mosh`.***
+
+- [ssh windows usage](inc/ssh-windows.md)
+- [ssh mac usage](inc/ssh-mac.md)
 
 ### create a ssh-key
 make sure you have a `~/.ssh directory`<br />
