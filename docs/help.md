@@ -67,7 +67,7 @@ or for the secondary ip:<br />
 
 ---
 
-&gt; [ssh windows usage](inc/ssh-windows.md)
+&gt; [ssh windows usage](inc/ssh-windows.md)<br />
 &gt; [ssh mac usage](inc/ssh-mac.md)
 
 ### create a ssh-key
