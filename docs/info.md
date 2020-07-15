@@ -4,7 +4,7 @@ envs is hosted in germany.
 
 builder & maintainer is [creme](https://envs.net/~creme/).
 
-Status Page [https://status.envs.net/](https://status.envs.net/)
+status page: [https://status.envs.net/](https://status.envs.net/)
 
 more infos over the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
 as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
