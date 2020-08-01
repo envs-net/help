@@ -5,9 +5,12 @@
 
 # user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
-- soft 1024mb/hard 1536mb limit on storage
 - 200 process/threads at a time
+- soft 1024mb/hard 1536mb limit on storage
 - [e-mail](https://help.envs.net/mail/) (250mb mailbox storage)
+
+  *if you need more (mailbox-)storage space for your work then feel free to contact us.*
+
 - some more services like:<br />
   [website](https://help.envs.net/website/) /
   [blog](https://help.envs.net/blog/) /
