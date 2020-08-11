@@ -70,3 +70,16 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [irc](https://envs.net/chat/irc/) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
+
+## # public dns-server
+
+**host:** `dns.envs.net`<br />
+**ip:** `5.199.130.141`<br />
+**port:** `53`
+
+### dns-over-tls (dot)
+
+**host:** `dns.envs.net`<br />
+**ip:** `5.199.130.141`<br />
+**port:** `853`<br />
+**tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` (**digest:** `sha256`)
