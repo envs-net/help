@@ -6,15 +6,6 @@
 ## # show public ip
 `curl ip.envs.net`
 
-## # termbin - aliases
-`echo 'alias tb="nc tb.envs.net 9999"' >> ~/.bash_aliases`
-
-you can POST a text:<br />
-&nbsp;&nbsp;`echo less typing now! | tb`
-
-or Content of a file:<br />
-&nbsp;&nbsp;`cat ~/some_file.txt | tb`<br />
-
 ## # the null pointer - aliases
 add the following lines to you're aliases file `~/.bash_aliases`
 ```bash

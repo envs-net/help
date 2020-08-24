@@ -43,7 +43,6 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [contacts](https://pad.envs.net/contacts/)
 - [nullpointer](https://envs.sh) - file hosting and url shortener
 - [privatebin](https://pb.envs.net/) - pastebin service
-- [termbin](https://tb.envs.net/) - command line pastebin
 - [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
 - [ip address info](https://ip.envs.net/)
 
