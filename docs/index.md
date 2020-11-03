@@ -29,6 +29,9 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 
 ## # general utilities
 - [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
+- [nullpointer (0x0)](https://envs.sh) - file hosting and url shortener
+- [privatebin](https://pb.envs.net/) - pastebin service
+- [codimd](https://codimd.envs.net/) - collaborative real time markdown
 - [cryptpad](https://pad.envs.net/) - collaborative real time editing
     - [cryptdrive](https://pad.envs.net/drive/)
     - [rich text](https://pad.envs.net/pad/)
@@ -41,8 +44,6 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [file drop](https://pad.envs.net/file/)
     - [todo lists](https://pad.envs.net/todo/)
     - [contacts](https://pad.envs.net/contacts/)
-- [nullpointer](https://envs.sh) - file hosting and url shortener
-- [privatebin](https://pb.envs.net/) - pastebin service
 - [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
 - [ip address info](https://ip.envs.net/)
 
@@ -58,11 +59,10 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - **[envs news and blog](https://pleroma.envs.net/envs)**
     - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient looks like mastodon
-    - [halcyon](https://halcyon.envs.net/) - a twitter-like webclient
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
     - [element-web](https://element.envs.net/) - element-web client for matrix. audio- and video calls are also possible in this.
-    - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like element.<br />
+    - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like element.
 
 ***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
 
