@@ -31,7 +31,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
 - [nullpointer (0x0)](https://envs.sh) - file hosting and url shortener
 - [privatebin](https://pb.envs.net/) - pastebin service
-- [codimd](https://codimd.envs.net/) - collaborative real time markdown
+- [hedgedoc](https://hedgedoc.envs.net/) - collaborative real time markdown
 - [cryptpad](https://pad.envs.net/) - collaborative real time editing
     - [cryptdrive](https://pad.envs.net/drive/)
     - [rich text](https://pad.envs.net/pad/)
