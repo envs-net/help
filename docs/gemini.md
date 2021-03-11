@@ -23,6 +23,8 @@ see [this example](gopher://zaibatsu.circumlunar.space/0/%7esolderpunk/gemini/do
 ## browse gemini-sites
 if you're currently connected from a envs.net shell, you can use the following browser.
 
+- [`amfora`](https://github.com/makeworld-the-better-one/amfora)
+	- `amfora gemini://envs.net`
 - [`av98`](https://tildegit.org/solderpunk/AV-98)
     - `av98 gemini://envs.net`
 - [`bombadillo`](https://tildegit.org/sloum/bombadillo)
