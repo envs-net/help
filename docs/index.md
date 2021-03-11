@@ -1,7 +1,7 @@
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
 > *write in irc/matrix channel `#envs`*<br />
-> *for any help requests.*
+> *for any help requests and community support.*
 
 # user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
