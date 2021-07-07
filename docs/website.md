@@ -40,6 +40,17 @@ make a mkdocs site called mywiki available on the web, you could do:
 - [pelican](https://getpelican.com/) - pelican is a static site generator, written in python
 - [zola](https://www.getzola.org/) - single-binary static site generator written in rust
 
+## restricted location
+
+it is also possible to set up a password protected area for your site.<br />
+this part is located at `~/public_html/restricted/` and you can set it up as follows:
+
+```bash
+mkdir ~/public_html/restricted
+touch ~/.htpasswd
+htpasswd -m ~/.htpasswd username
+```
+
 ## forward / rewrite url to a other site
 
 If you would like to redirect your page then you can do so with a simple workaround.
