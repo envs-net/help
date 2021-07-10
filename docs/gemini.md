@@ -32,3 +32,5 @@ if you're currently connected from a envs.net shell, you can use the following b
 
 if you want to access the gemini site in your public_gemini dir, use the following link structure:<br />
 &nbsp;&nbsp;`gemini://envs.net/~username`
+<br />
+otherwise, you can use our [http proxy](https://gemini.envs.net/) to browse the gemini-net.
