@@ -25,17 +25,9 @@ envs.net has her own dns master & slave server and use a additional slave from t
 | ns1.envs.net       | 89.163.145.170         | Düsseldorf  | master |
 | ns2.envs.net       | 168.119.12.180         | Falkenstein | slave  |
 | | | | |
-| ns1.tildeverse.net | 198.50.128.75          | Montréal    | slave  |
-| ns1.tildeverse.net | 2607:5300:203:5fd5::75 | Montréal    | slave  |
+| ns1.tildeverse.net | 192.99.181.240         | Traverse City | slave  |
+| ns1.tildeverse.net | 2607:5300:60:4f58::240 | Traverse City | slave  |
 
 ### master-zones:
 - envs.net
 - envs.sh
-- envs.o
-- envs.tilde
-
-### slave server for:
-- tildeverse.org / tildeverse.net
-- tilde.team
-    - ttm.sh
-    - and some more aliases
