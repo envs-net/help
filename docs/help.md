@@ -195,7 +195,7 @@ run `tzselect` to find the correct timezone name that you’ll need to export as
 
 for example, if you’re in eastern time, add something like this<br />
 `export TZ="America/Detroit"`<br />
-to your .bashrc .
+to your `~/.profile`.
 
 to get your timezone you can use `date`.
 
