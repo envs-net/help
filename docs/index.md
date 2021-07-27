@@ -42,8 +42,8 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [kanban boards](https://pad.envs.net/kanban/)
     - [whiteboard](https://pad.envs.net/whiteboard/)
     - [file drop](https://pad.envs.net/file/)
-    - [todo lists](https://pad.envs.net/todo/)
     - [contacts](https://pad.envs.net/contacts/)
+- [ffsync](https://help.envs.net/tutorials/ffsync/) - firefox sync server
 - [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
 - [ip address info](https://ip.envs.net/)
 
