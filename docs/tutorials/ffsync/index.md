@@ -12,6 +12,10 @@ to configure desktop firefox to talk to our sync server, go to `about:config`, s
 
 `identity.sync.tokenserver.uri: https://ffsync.envs.net/token/1.0/sync/1.5`
 
+after the new sync server is stored, restart Firefox (i.e. close it and open it again).
+
+you can now log in your firefox account again.
+
 ### android
 
 firefox for android ("daylight", versions 79 and later) does support using a non-mozilla-hosted sync server.
