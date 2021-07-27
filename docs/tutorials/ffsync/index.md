@@ -21,6 +21,6 @@ and then log in.
 
 to configure android firefox 44 up to 78 to talk to our sync server, just set the "identity.sync.tokenserver.uri" exactly as above before signing in to firefox accounts and sync on your android device.
 
-**important:** after creating the android account, changes to "identity.sync.tokenserver.uri" will be ignored. (if you need to change the uri, delete the android account using the "Settings > Sync > Disconnect…" menu item, update the pref, and sign in again.) non-default tokenserver url's are displayed in the "settings > sync" panel in firefox for android, so you should be able to verify your url there.
+**important:** after creating the android account, changes to "identity.sync.tokenserver.uri" will be ignored. (if you need to change the uri, delete the android account using the "Settings > Sync > Disconnect…" menu item, update the pref, and sign in again.) non-default tokenserver url's are displayed in the "Settings > Sync" panel in firefox for android, so you should be able to verify your url there.
 
 prior to firefox 44, a custom add-on was needed to configure firefox for android. for firefox 43 and earlier, see the blog post [how to connect firefox for android to self-hosted firefox account and firefox sync servers](http://www.ncalexander.net/blog/2014/07/05/how-to-connect-firefox-for-android-to-self-hosted-services/).
