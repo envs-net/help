@@ -47,8 +47,11 @@ this part is located at `~/public_html/restricted/` and you can set it up as fol
 
 ```bash
 mkdir ~/public_html/restricted
+chmod 705 ~/public_html/restricted
+
 touch ~/.htpasswd
 htpasswd -m ~/.htpasswd username
+chmod 600 ~/.htpasswd
 ```
 
 ## forward / rewrite url to a other site
