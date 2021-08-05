@@ -62,6 +62,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient looks like mastodon
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
+    - [matrix-help.envs.net](https://matrix-help.envs.net/) - help & documentation about matrix/element at envs.net
     - [element-web](https://element.envs.net/) - element-web client for matrix. audio- and video calls are also possible in this.
     - [hydrogen-web](https://hydrogen.envs.net/) - lightweight matrix client with legacy and mobile browser support.
     - [cinny](https://cinny.envs.net/) - cinny is a matrix client focusing primarily on simple, elegant and secure interface.
