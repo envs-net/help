@@ -52,11 +52,11 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
-- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net` (on port 70)
-- [gemini proxy](https://gemini.envs.net/) - defaults to our local gemini: `gemini://envs.net` (on port 1965)
+- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`<br />(on port 70)
+- [gemini proxy](https://gemini.envs.net/) - defaults to our local gemini: `gemini://envs.net`<br />(on port 1965)
 <br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
-- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - [what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
+- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
     - **[envs news and blog](https://pleroma.envs.net/envs)**
     - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient looks like mastodon
@@ -84,4 +84,4 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 **host:** `dns.envs.net`<br />
 **ip:** `5.199.130.141`<br />
 **port:** `853`<br />
-**tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` (**digest:** `sha256`)
+**tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` _(**digest:** `sha256`)_

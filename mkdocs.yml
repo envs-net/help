@@ -3,7 +3,13 @@ site_description: envs.net | help
 repo_name: <i class="fa fa-github" aria-hidden="true"></i> edit on gitea
 repo_url: https://git.envs.net/envs/help
 
-theme: cyborg
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: indigo
+    font:
+        text: Jetbrains Mono
 
 nav:
 - home: index.md
