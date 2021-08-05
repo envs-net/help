@@ -7,9 +7,22 @@ theme:
     name: material
     palette:
         scheme: slate
-        primary: indigo
+        primary: black
+        accent: teal
+    logo: assets/favicon.ico
+    favicon: assets/favicon.ico
     font:
         text: Jetbrains Mono
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
 
 nav:
 - home: index.md
