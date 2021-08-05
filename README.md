@@ -5,6 +5,6 @@ partially forked from: [tilde.team - wiki](https://tildegit.org/team/site/src/br
 ## dependencies
 
 ```bash
-pip3 install mkdocs mkdocs-materials pymdown-extensions
+pip3 install mkdocs mkdocs-material
 
 ```
