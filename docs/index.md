@@ -1,9 +1,11 @@
+# envs.net ~ help page
+
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
-> *write in irc/matrix channel `#envs`*<br />
+> *write in irc channel `#envs` or on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*<br />
 > *for any help requests and community support.*
 
-# user account features
+## user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - 200 process/threads at a time
 - soft 1024mb/hard 1536mb limit on storage
@@ -17,9 +19,10 @@
   [databases](https://help.envs.net/database/) /
   [gopher](https://help.envs.net/gopher/) /
   [gemini](https://help.envs.net/gemini/) /
-  [finger](https://help.envs.net/finger/) and much more ..
+  [finger](https://help.envs.net/finger/)
+  and much more ..
 
-# services
+## services
 
 ## # code related stuff
 - [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.<br />

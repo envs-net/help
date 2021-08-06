@@ -25,24 +25,24 @@ markdown_extensions:
         separator: "_"
 
 nav:
-- home: index.md
-- info: info.md
-- faq: faq.md
-- basic help: help.md
-- user guide:
-    - email: mail.md
-    - website: website.md
-    - blog: blog.md
-    - database: database.md
-    - gopher: gopher.md
-    - gemini: gemini.md
-    - finger: finger.md
-- tutorials:
-    - ffsync: tutorials/ffsync/index.md
-    - bash guide: tutorials/bash-guide/README.md
-    - learn git:
-        - home: tutorials/learngit/docs/index.md
-        - glossary: tutorials/learngit/docs/glossary.md
-        - common commands: tutorials/learngit/docs/common_commands.md
-        - branching strategies: tutorials/learngit/docs/branching_strategies.md
-        - troubleshooting: tutorials/learngit/docs/troubleshooting.md
+    - home: index.md
+    - info: info.md
+    - faq: faq.md
+    - basic help: help.md
+    - user guide:
+        - email: mail.md
+        - website: website.md
+        - blog: blog.md
+        - database: database.md
+        - gopher: gopher.md
+        - gemini: gemini.md
+        - finger: finger.md
+    - tutorials:
+        - ffsync: tutorials/ffsync/index.md
+        - bash guide: tutorials/bash-guide/README.md
+        - learn git:
+            - home: tutorials/learngit/docs/index.md
+            - glossary: tutorials/learngit/docs/glossary.md
+            - common commands: tutorials/learngit/docs/common_commands.md
+            - branching strategies: tutorials/learngit/docs/branching_strategies.md
+            - troubleshooting: tutorials/learngit/docs/troubleshooting.md
