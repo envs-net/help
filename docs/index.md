@@ -24,13 +24,13 @@
 
 ## services
 
-## # code related stuff
+### # code related stuff
 - [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.<br />
 members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
 - [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.<br />
 (includes a "drone-ssh-runner" and "drone-docker-runner".)
 
-## # general utilities
+### # general utilities
 - [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
 - [nullpointer (0x0)](https://envs.sh) - file hosting and url shortener
 - [privatebin](https://pb.envs.net/) - pastebin service
@@ -50,7 +50,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
 - [ip address info](https://ip.envs.net/)
 
-## # social / communications
+### # social / communications
 - [bbj](https://bbj.envs.net/) - forum
 - [email](https://mail.envs.net/) - webmail
 - [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
@@ -77,13 +77,13 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
 
-## # public dns-server
+### # public dns-server
 
 **host:** `dns.envs.net`<br />
 **ip:** `5.199.130.141`<br />
 **port:** `53`
 
-### dns-over-tls (dot)
+#### dns-over-tls (dot)
 
 **host:** `dns.envs.net`<br />
 **ip:** `5.199.130.141`<br />
