@@ -13,7 +13,7 @@
 
   *if you need more (mailbox-)storage space for your work then feel free to contact us.*
 
-- some more services like:<br />
+- some more services like:  
   [website](https://help.envs.net/website/) /
   [blog](https://help.envs.net/blog/) /
   [databases](https://help.envs.net/database/) /
@@ -25,9 +25,9 @@
 ## services
 
 ### # code related stuff
-- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.<br />
+- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.  
 members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
-- [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.<br />
+- [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.  
 (includes a "drone-ssh-runner" and "drone-docker-runner".)
 
 ### # general utilities
@@ -71,21 +71,31 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [cinny](https://cinny.envs.net/) - cinny is a matrix client focusing primarily on simple, elegant and secure interface.
     - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like element.
 
-***note: we have a bridge between the channels `#envs` `#envs_news` `#envs_lounge` and `#envs_german` on matrix and irc.***
-
 - [irc](https://envs.net/chat/irc/) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
 
+!!! note
+    we have a bridge between the channels:
+
+    - [`#envs`](https://matrix.to/#/#envs:envs.net) - official channel for envs.net
+    - [`#envs_german:envs.net`](https://matrix.to/#/#envs_german:envs.net) - german speaking project channel
+    - [`#envs_news`](https://matrix.to/#/#envs_news:envs.net) - news / announcements about envs.net
+    - [`#envs_status`](https://matrix.to/#/#envs_status:envs.net) - status notifications for envs services
+    - [`#envs_lounge`](https://matrix.to/#/#envs_lounge:envs.net) - hang out in the #lounge | ~ offtopic chat ~
+
+    on matrix and irc. more informations about can you find [here](https://matrix-help.envs.net/advanced/irc_bridge/).
+
+
 ### # public dns-server
 
-**host:** `dns.envs.net`<br />
-**ip:** `5.199.130.141`<br />
+**host:** `dns.envs.net`  
+**ip:** `5.199.130.141`  
 **port:** `53`
 
 #### dns-over-tls (dot)
 
-**host:** `dns.envs.net`<br />
-**ip:** `5.199.130.141`<br />
-**port:** `853`<br />
+**host:** `dns.envs.net`  
+**ip:** `5.199.130.141`  
+**port:** `853`  
 **tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` _(**digest:** `sha256`)_

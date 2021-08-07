@@ -13,7 +13,7 @@ we're trying to keep this cool corner of the web alive.
 
 # # user gemini
 
-main gemini page: `gemini://envs.net`<br />
+main gemini page: `gemini://envs.net`
 
 envs.net serves user gemini sites from your `~/public_gemini` directory.
 
