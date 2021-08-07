@@ -79,7 +79,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     we have a bridge between the channels:
 
     - [`#envs`](https://matrix.to/#/#envs:envs.net) - official channel for envs.net
-    - [`#envs_german:envs.net`](https://matrix.to/#/#envs_german:envs.net) - german speaking project channel
+    - [`#envs_german`](https://matrix.to/#/#envs_german:envs.net) - german speaking project channel
     - [`#envs_news`](https://matrix.to/#/#envs_news:envs.net) - news / announcements about envs.net
     - [`#envs_status`](https://matrix.to/#/#envs_status:envs.net) - status notifications for envs services
     - [`#envs_lounge`](https://matrix.to/#/#envs_lounge:envs.net) - hang out in the #lounge | ~ offtopic chat ~

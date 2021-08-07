@@ -100,7 +100,8 @@ but your local network blocks znc ports. you can connect to envs.net, and use po
 if you are connecting from a linux machine, you can do this:  
 &nbsp;&nbsp;`ssh -L 6667:localhost:6667 envs.net`
 
-after being logged in, open your local irc client, and use `127.0.0.1:6667`  
+after being logged in, open your local irc client, and use  
+&nbsp;&nbsp; `127.0.0.1:6667`  
 for your server setting. voila! you're now on envs.net znc server.  
 
 what that ssh command did was open a local port tunnel (-L), using local port 6667 (6667:)  
@@ -243,7 +244,7 @@ echo 'sh myscript.sh' | at midnight
 
 view your at queue:  
 &nbsp;&nbsp;`at -l` or `atq`  
-`2       Sun Dec 29 14:03:00 2019 a creme`
+&nbsp;&nbsp;`2       Sun Dec 29 14:03:00 2019 a creme`
 
 delete at job id 2:  
 &nbsp;&nbsp;`at -r 2` or `atrm 2`
