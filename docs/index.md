@@ -5,6 +5,10 @@
 > *write in irc channel `#envs` or on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*<br />
 > *for any help requests and community support.*
 
+**[> envs news and blog on pleroma](https://pleroma.envs.net/envs)**
+
+***
+
 ## user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - 200 process/threads at a time
