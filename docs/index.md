@@ -67,6 +67,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - **[envs news and blog](https://pleroma.envs.net/envs)**
     - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
     - [mastodon fe](https://pleroma.envs.net/web) - a webclient looks like mastodon
+- [mobilizon](https://mobilizon.envs.net/) - manage your events - gather, organize and mobilize
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
     - [matrix-help.envs.net](https://matrix-help.envs.net/) - help & documentation about matrix/element at envs.net
