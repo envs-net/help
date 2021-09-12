@@ -1,7 +1,7 @@
 # # user database
 
 ## sqlite (preferred)
-in the spirit of minimalism, the recommended database technology to use here is sqlite. sqlite db's exist as a single, atomic file, and are a good use for light applications, with low to medium concurrent loads.<br>
+in the spirit of minimalism, the recommended database technology to use here is sqlite. sqlite databases exist as a single, atomic file, and are a good use for light applications, with low to medium concurrent loads.<br>
 it also allows for greater flexibility, and segregation for your application's data: you can create as many sqlite databases as you need.
 
 - [documentation](https://sqlite.org/docs.html)

@@ -26,7 +26,7 @@ save your pronouns in your `~/.pronouns` file.
 in the `~/.project` file you can deposit information about your projects.
 
 ## .tz
-the `~/.tz` file displayed your timezone informations.
+the `~/.tz` file displays your timezone informations.
 
 example:<br />
 &nbsp;&nbsp;`Europe/Berlin`

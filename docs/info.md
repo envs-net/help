@@ -6,7 +6,7 @@ builder & maintainer is [creme](https://envs.net/~creme/).
 
 status page: [https://status.envs.net/](https://status.envs.net/)
 
-more infos over the installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
+more info on installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
 as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
 
 ***
@@ -20,7 +20,7 @@ as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
 | ED25519   | `SHA256:V+mXTsRJ+jfJMxxPlD/28dpWouuns3Wuqwppv6ykVC8` |
 
 ## # dns-server
-envs.net has her own dns master & slave server and use a additional slave from tildeverse.
+envs.net has her own dns master & slave server and use an additional slave from tildeverse.
 
 | Name | Address | Location | Type |
 | --- | --- | --- | --- |

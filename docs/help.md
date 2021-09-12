@@ -7,7 +7,7 @@
 `curl ip.envs.net`
 
 ## # the null pointer - aliases
-add the following lines to you're aliases file `~/.bash_aliases`
+add the following lines to your aliases file `~/.bash_aliases`
 ```bash
 0file() { curl -F"file=@$1" https://envs.sh ; }
 0pb() { curl -F"file=@-;" https://envs.sh ; }
@@ -30,10 +30,10 @@ or you can shorten URLs:
     if you want a nice wrapper, try [~tomasino's pb](https://git.envs.net/envs/pb)
 
 ## # ssh
-your ssh directory is: `~/.ssh/` this includes the following files.
+your ssh directory is: `~/.ssh/` includes the following files.
 
 - your ssh config file `~/.ssh/config` (more bellow)
-- the `authorized_keys`-file is a list of public keys (one per line) that are allowed to log in to your user account.
+- the `authorized_keys` - file is a list of public keys (one per line) that are allowed to log in to your user account.
 - `id_ed25519` or `id_rsa` are each private keys, and `id_ed25519.pub` or `id_rsa.pub` are the corresponding pubkey.
 
 envs.net ED25519 key fingerprint is `SHA256:V+mXTsRJ+jfJMxxPlD/28dpWouuns3Wuqwppv6ykVC8` and for  
