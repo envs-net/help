@@ -84,7 +84,7 @@ be located at `~/.ssh/id_ed25519.pub` and `~/.ssh/id_ed25519` respectively (or
 
 * `cat ~/.ssh/id_ed25519.pub` (or `cat ~/.ssh/id_rsa.pub` for rsa)
 
-* copy the output of the last command and paste it in the sshkey field on the signup form.
+* copy the output of the last command and paste it in the sshkey field of the sign-up form.
 
 ### using your keypair
 

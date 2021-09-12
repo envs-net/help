@@ -1,10 +1,10 @@
 # # user website
-you're user page is available under
+your user page is available under
 
 ***https://envs.net/~username/***, ***https://envs.net/u/username/***,<br />
 ***https://username.envs.net/*** and ***https://username.envs.sh/***.
 
-the index file location for our page is `~/public_html/` and<br />
+the index file location for your page is `~/public_html/` and<br />
 a template for the page can you found in `~/public_html/your_index_template.php`.
 
 static files are served normally, along with the following dynamic options:
