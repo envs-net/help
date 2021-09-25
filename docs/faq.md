@@ -16,7 +16,7 @@ yes sure. please send us an email with your request to: [sudoers@envs.net](mailt
 if you don't want this to happen by default, when you log in to your shell, run `byobu-disable`.
 
 ## Q: can i get a package installed?
-probably! send an message in our irc-channel #envs or an email with your suggestion to [sudoers@envs.net](mailto:sudoers@envs.net).
+probably! send a message in our irc-channel #envs or an email with your suggestion to [sudoers@envs.net](mailto:sudoers@envs.net).
 
 ## Q: can i open the port for service i have running?
 no. due to security issues, we cannot. however, you can certainly use an [ssh-tunnel](https://help.envs.net/help/#ssh-tunnels) to access it.

@@ -6,7 +6,7 @@ builder & maintainer is [creme](https://envs.net/~creme/).
 
 status page: [https://status.envs.net/](https://status.envs.net/)
 
-more info on installed packages can you find on the [sysinfo page](https://envs.net/sysinfo/)<br />
+you can find more info on installed packages on the [sysinfo page](https://envs.net/sysinfo/)<br />
 as well as summarized in our [sysinfo.json](https://envs.net/sysinfo.json).
 
 ***

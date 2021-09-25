@@ -20,7 +20,7 @@ please see [ttbp](https://envs.net/ttbp/) for more information.
 
 twtxt is a decentralised, minimalist microblogging service for hackers.
 
-to setup your twtxt it takes the following steps:
+to set up your twtxt it takes the following steps:
 
 1. `twtxt quickstart` - this wizard will generate a basic configuration file for twtxt<br /> in `~/.config/twtxt/config`. *for more config option see: [twtxt - configuration](https://twtxt.readthedocs.io/en/latest/user/configuration.html)*.<br />*note your public twtxt location is ~/public_html/twtxt.txt*
 2. now you can use `twtxt tweet "Hello, this is twtxt!"` to post a status and<br />`twtxt timeline` to view your timeline.

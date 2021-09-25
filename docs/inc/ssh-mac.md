@@ -2,7 +2,7 @@
 
 ## generating your keypair
 
-* open a terminal (it's in `/Applications/Utilities`)
+* open "terminal" (it's in `/Applications/Utilities`)
 
 * create your .ssh directory:
 
@@ -34,7 +34,7 @@ be located at `~/.ssh/id_ed25519.pub` and `~/.ssh/id_ed25519` respectively (or
 
 ## using your keypair
 
-* open a terminal (it's in `/Applications/Utilities`)
+* open "terminal" (it's in `/Applications/Utilities`)
 
 * `ssh` to envs.net:
 
