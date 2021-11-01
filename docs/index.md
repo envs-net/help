@@ -88,7 +88,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [`#envs_status`](https://matrix.to/#/#envs_status:envs.net) - status notifications for envs services
     - [`#envs_lounge`](https://matrix.to/#/#envs_lounge:envs.net) - hang out in the #lounge | ~ offtopic chat ~
 
-  More information on matrix and irc can be found [here](https://matrix-help.envs.net/advanced/irc_bridge/).
+  More information on matrix and irc can be found [here](https://matrix-help.envs.net/advanced/bridges/).
 
 
 ### # public dns-server
