@@ -79,18 +79,6 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
 - [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via irc/matrix or email) to request an account, then log in with your email password and configure as needed.
 
-!!! note
-    we have a bridge between these channels:
-
-    - [`#envs`](https://matrix.to/#/#envs:envs.net) - official channel for envs.net
-    - [`#envs_german`](https://matrix.to/#/#envs_german:envs.net) - german speaking project channel
-    - [`#envs_news`](https://matrix.to/#/#envs_news:envs.net) - news / announcements about envs.net
-    - [`#envs_status`](https://matrix.to/#/#envs_status:envs.net) - status notifications for envs services
-    - [`#envs_lounge`](https://matrix.to/#/#envs_lounge:envs.net) - hang out in the #lounge | ~ offtopic chat ~
-
-  More information on matrix and irc can be found [here](https://matrix-help.envs.net/advanced/bridges/).
-
-
 ### # public dns-server
 
 **host:** `dns.envs.net`  
