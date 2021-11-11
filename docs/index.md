@@ -2,7 +2,7 @@
 
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
-> *write in irc channel `#envs` or on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*<br />
+> *write on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*<br />
 > *for any help requests and community support.*
 
 **[> envs news and blog on pleroma](https://pleroma.envs.net/envs)**
