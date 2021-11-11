@@ -1,6 +1,6 @@
 # basic help
 
-> *write in irc channel `#envs` or on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*  
+> *write on matrix [`#envs:envs.net`](https://matrix.to/#/#envs:envs.net)*  
 > *for any help requests and community support.*
 
 ## # show public ip
