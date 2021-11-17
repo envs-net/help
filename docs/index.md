@@ -91,3 +91,20 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 **ip:** `5.199.130.141`  
 **port:** `853`  
 **tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` _(**digest:** `sha256`)_
+
+##### example unbound config  (`/etc/unbound/unbound.conf`)
+```
+include-toplevel: "/etc/unbound/unbound.conf.d/*.conf"
+
+server:
+  verbosity: 2
+  tls-cert-bundle: /etc/ssl/certs/ca-certificates.crt
+  interface: 127.0.0.1
+  access-control: 127.0.0.0/8 allow
+
+forward-zone:
+   name: "."
+   forward-tls-upstream: yes
+
+   forward-addr: 5.199.130.141@853#dns.envs.net
+```
