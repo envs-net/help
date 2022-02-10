@@ -9,7 +9,7 @@
 
 ***
 
-## user account features
+## shell user account features
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - 200 process/threads at a time
 - soft 1024mb / hard 1536mb limit on storage
@@ -27,6 +27,7 @@
   and much more ..
 
 ## services
+create an account on any of these services as you like.
 
 ### # code related stuff
 - [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.  
