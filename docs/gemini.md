@@ -13,7 +13,8 @@ we're trying to keep this cool corner of the web alive.
 
 # # user gemini
 
-main gemini page: `gemini://envs.net`
+main gemini page: `gemini://envs.net`  
+*Note that the mainpage is updated only once per hour.*
 
 envs.net serves user gemini sites from your `~/public_gemini` directory.
 
