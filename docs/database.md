@@ -9,7 +9,7 @@ it also allows for greater flexibility, and segregation for your application's d
 
 ## optional
 
-please contact <a href="https://envs.net/~creme/">creme</a> (via irc/matrix or email) to request a database with access.
+please contact <a href="https://envs.net/~creme/">creme</a> (via matrix or email) to request a database with access.
 
 ### mysql
 
