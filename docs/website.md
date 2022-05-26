@@ -51,7 +51,7 @@ chmod 705 ~/public_html/restricted
 
 touch ~/.htpasswd
 htpasswd -m ~/.htpasswd username
-chmod 600 ~/.htpasswd
+chmod 604 ~/.htpasswd
 ```
 
 ## forward / rewrite url to a other site
