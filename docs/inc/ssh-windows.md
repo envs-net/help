@@ -8,7 +8,7 @@ windows 10 1809 or later has openssh built in, so you no longer need to install 
 
 * open your new shell
 
-* create your .ssh directory
+* create your `.ssh` directory in `%UserProfile%`
 
 ```powershell
 mkdir .ssh
