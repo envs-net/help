@@ -64,7 +64,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [gemini proxy](https://gemini.envs.net/) - defaults to our local gemini: `gemini://envs.net`<br />(on port 1965)
 <br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
-- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
+- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
 - [mobilizon](https://mobilizon.envs.net/) - manage your events - gather, organize and mobilize
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
