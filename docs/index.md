@@ -23,7 +23,7 @@
   [databases](https://help.envs.net/database/) /
   [gopher](https://help.envs.net/gopher/) /
   [gemini](https://help.envs.net/gemini/) /
-  [finger](https://help.envs.net/finger/)
+  [finger](https://help.envs.net/finger/) /
   and much more ..
 
 ## services
@@ -46,7 +46,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
     - [spreadsheets](https://pad.envs.net/sheet/)
     - [markdown/code editor](https://pad.envs.net/code/)
     - [presentation slides editor](https://pad.envs.net/slide/)
-    - [polls](https://pad.envs.net/poll/)
+    - [polls](https://pad.envs.net/form/)
     - [kanban boards](https://pad.envs.net/kanban/)
     - [whiteboard](https://pad.envs.net/whiteboard/)
     - [file drop](https://pad.envs.net/file/)
@@ -64,9 +64,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 - [gemini proxy](https://gemini.envs.net/) - defaults to our local gemini: `gemini://envs.net`<br />(on port 1965)
 <br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
-- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
-    - **[envs news and blog](https://pleroma.envs.net/envs)**
-    - also available via gopher: `gopher://pleroma.envs.net` ([http proxy](https://gopher.envs.net/pleroma.envs.net/))
+- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)
 - [mobilizon](https://mobilizon.envs.net/) - manage your events - gather, organize and mobilize
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
