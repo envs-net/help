@@ -36,7 +36,7 @@ members can be use your email credantials for login. (*user@envs.net* | *your em
 (includes a "drone-ssh-runner" and "drone-docker-runner".)
 
 ### # general utilities
-- [searx](https://searx.envs.net/) - privacy-respecting metasearch engine
+- [searxng](https://searx.envs.net/) - privacy-respecting metasearch engine
 - [nullpointer (0x0)](https://envs.sh) - file hosting and url shortener
 - [privatebin](https://pb.envs.net/) - pastebin service
 - [hedgedoc](https://hedgedoc.envs.net/) - collaborative real time markdown
