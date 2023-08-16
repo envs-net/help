@@ -54,11 +54,11 @@ you can check the records yourself with the `dig` tool like this:
 ports 22, 80, 443, 2222 and 2223 are available for ssh  
 use ssh.envs.net to reach the secondary ip and use 80 and 443 for ssh.  
 so, for example, you can do:  
-&nbsp;&nbsp;`ssh user@envs.net` 
-&nbsp;&nbsp;`ssh -p2223 user@envs.net`
+&nbsp;&nbsp;`ssh username@envs.net` 
+&nbsp;&nbsp;`ssh -p2223 username@envs.net`
 
 or for the secondary ip:
-&nbsp;&nbsp;`ssh -p443 user@ssh.envs.net`
+&nbsp;&nbsp;`ssh -p443 username@ssh.envs.net`
 
 !!! tip
     if you have a slightly shaky connection then you can also use `mosh`.
@@ -90,7 +90,7 @@ define ssh host aliase in `~/.ssh/config`
 Host envs.net
   HostName envs.net
   Port 2223
-  User user
+  User username
   LocalForward localhost:6667 localhost:6667
 ```
 
@@ -121,7 +121,7 @@ from URL (on remote machine)
 &nbsp;&nbsp;`echo $(curl -sL https://example.com/id_rsa.pub) | tee -a ~/.ssh/authorized_keys`
 
 over ssh (on local machine)  
-&nbsp;&nbsp;`ssh-copy-id -i ~/.ssh/id_rsa.pub -p2223 user@envs.net;`
+&nbsp;&nbsp;`ssh-copy-id -i ~/.ssh/id_rsa.pub -p2223 username@envs.net;`
 
 ### ssh remote execution
 `ssh envs.net ping google.de`
@@ -134,19 +134,19 @@ exec a local script
 
 ## # scp usage
 copy ssh pub key to remote:  
-&nbsp;&nbsp;`scp -P 2223 ~/.ssh/authorized_keys user@envs.net:~/.ssh/authorized_keys`
+&nbsp;&nbsp;`scp -P 2223 ~/.ssh/authorized_keys username@envs.net:~/.ssh/authorized_keys`
 
 copy website index.html from remote:  
-&nbsp;&nbsp;`scp -P 2223 user@envs.net:~/public_www/index.html ~/public_www/`
+&nbsp;&nbsp;`scp -P 2223 username@envs.net:~/public_www/index.html ~/public_www/`
 
 ## # rsync usage
 sync website to remote:  
-&nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" ~/public_www user@envs.net:~`  
+&nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" ~/public_www username@envs.net:~`  
 sync website from remote:  
-&nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" user@envs.net:~/public_www ~/`
+&nbsp;&nbsp;`rsync -avz -e "ssh -p 2223" username@envs.net:~/public_www ~/`
 
 ## # sftp usage
-connect: `sftp -oPort=2223 user@envs.net`
+connect: `sftp -oPort=2223 username@envs.net`
 
 ### commands:
 exit:	`exit`  
@@ -173,8 +173,8 @@ add `~/.ssh/authorized_keys:`
 &nbsp;&nbsp;`put .ssh/authorized_keys .ssh/authorized_keys`
 
 ### single line usage (on local machine)
-&nbsp;&nbsp;to remote:   `sftp -P 2223 user@envs.net:remotedir <<< $'put localfile_path'`  
-&nbsp;&nbsp;from remote: `sftp -P 2223 user@envs.net:remotefile localfile`
+&nbsp;&nbsp;to remote:   `sftp -P 2223 username@envs.net:remotedir <<< $'put localfile_path'`  
+&nbsp;&nbsp;from remote: `sftp -P 2223 username@envs.net:remotefile localfile`
 
 ## # your shell
 avaliable shells: `ash`, `bash`, `csh`, `dash`, `elvish`, `fish`, `ksh`, `mksh`, `sash`, `sh`, `tcsh`, `xonsh`, `yash`, `zsh`  

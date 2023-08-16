@@ -31,7 +31,7 @@ create an account on any of these services as you like.
 
 ### # code related stuff
 - [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.  
-members can be use your email credantials for login. (*user@envs.net* | *your email pw*)
+members can be use your email credantials for login. (*username@envs.net* | *your email pw*)
 - [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.  
 (includes a "drone-ssh-runner" and "drone-docker-runner".)
 

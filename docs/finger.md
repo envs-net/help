@@ -8,7 +8,7 @@ you can create a script called `~/.efingerd` which will be run when anyone finge
 ## querying
 the standard query for finger is simply
 
-`finger user@envs.net`
+`finger username@envs.net`
 
 which displays login name, home directory, shell, real name, current login time, idle time, whether or not the user has mail, and the contents of the user's `~/.plan`, `~/.project` and `~/.tz` file.
 
