@@ -38,7 +38,6 @@ nav:
         - gemini: gemini.md
         - finger: finger.md
     - tutorials:
-        - ffsync: tutorials/ffsync/index.md
         - bash guide: tutorials/bash-guide/README.md
         - learn git:
             - home: tutorials/learngit/docs/index.md
