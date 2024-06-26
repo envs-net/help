@@ -71,11 +71,10 @@ members can be use your email credantials for login. (*username@envs.net* | *you
     - [element-web](https://element.envs.net/) - element-web client for matrix. audio- and video calls are also possible in this.
     - [hydrogen-web](https://hydrogen.envs.net/) - lightweight matrix client with legacy and mobile browser support.
     - [cinny](https://cinny.envs.net/) - cinny is a matrix client focusing primarily on simple, elegant and secure interface.
-    - [dimension](https://dimension.envs.net/) - an open source integrations manager for matrix clients, like element.
 
 - [irc](https://envs.net/chat/irc/) - irc network for the tildeverse
 - [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
-- [znc](https://znc.envs.net/) - irc bouncer - log in with your `username` and email password and configure as needed.
+- [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via matrix or email) to request an account, then log in with your `username` and email password and configure as needed.
 
 ### # public dns-server
 
