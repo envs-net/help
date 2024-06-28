@@ -1,5 +1,3 @@
-## Impressum
-
 The [Impressum of envs.net](https://envs.net/impressum) is valid with the following:
 
 responsible according to § 5 TMG:
