@@ -64,7 +64,6 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 <br /><br />
 - [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
 - [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
-- [mobilizon](https://mobilizon.envs.net/) - manage your events - gather, organize and mobilize
 <br /><br />
 - [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
     - [matrix-help.envs.net](https://matrix-help.envs.net/) - help & documentation about matrix/element at envs.net
@@ -89,7 +88,8 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 **port:** `853`  
 **tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` _(**digest:** `sha256`)_
 
-##### example unbound config  (`/etc/unbound/unbound.conf`)
+
+**example unbound config  (`/etc/unbound/unbound.conf`)**
 ```
 include-toplevel: "/etc/unbound/unbound.conf.d/*.conf"
 
