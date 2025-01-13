@@ -28,20 +28,26 @@
   and much more ..
 
 ## services
-create an account on any of these services as you like.
+
+!!! note
+    the checkboxes after the service name show you whether it can be used with the shell account or not.  
+
+    [x] - you can use with your shell account  
+    [-] - no account is required or can be created  
+    [ ] - an account must be created
 
 ### # code related stuff
-- [gitea](https://git.envs.net/) - git with a cup of tea. - lightweight code hosting solution.  
+- [gitea](https://git.envs.net/) [x] - git with a cup of tea. - lightweight code hosting solution.  
 members can be use your email credantials for login. (*username@envs.net* | *your email pw*)
-- [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.  
-(includes a "drone-ssh-runner" and "drone-docker-runner".)
+    - [drone](https://drone.envs.net/) - drone is a container-native, continuous delivery platform.  
+    (includes a "drone-ssh-runner" and "drone-docker-runner".)
 
 ### # general utilities
-- [searxng](https://searx.envs.net/) - privacy-respecting metasearch engine
-- [nullpointer (0x0)](https://envs.sh) - file hosting and url shortener
-- [privatebin](https://pb.envs.net/) - pastebin service
-- [hedgedoc](https://hedgedoc.envs.net/) - collaborative real time markdown
-- [cryptpad](https://pad.envs.net/) - collaborative real time editing
+- [searxng](https://searx.envs.net/) [-] - privacy-respecting metasearch engine
+- [nullpointer (0x0)](https://envs.sh) [-] - file hosting and url shortener
+- [privatebin](https://pb.envs.net/) [-] - pastebin service
+- [hedgedoc](https://hedgedoc.envs.net/) [-] - collaborative real time markdown
+- [cryptpad](https://pad.envs.net/) [-] - collaborative real time editing
     - [cryptdrive](https://pad.envs.net/drive/)
     - [rich text](https://pad.envs.net/pad/)
     - [spreadsheets](https://pad.envs.net/sheet/)
@@ -52,29 +58,29 @@ members can be use your email credantials for login. (*username@envs.net* | *you
     - [whiteboard](https://pad.envs.net/whiteboard/)
     - [file drop](https://pad.envs.net/file/)
     - [contacts](https://pad.envs.net/contacts/)
-- [tt-rss](https://rss.envs.net/) - news feed reader and aggregator
-- [ip address info](https://ip.envs.net/)
+- [tt-rss](https://rss.envs.net/) [ ] - news feed reader and aggregator
+- [ip address info](https://ip.envs.net/) [-]
 
 ### # social / communications
-- [bbj](https://bbj.envs.net/) - forum
-- [email](https://mail.envs.net/) - webmail
-- [mailing lists](https://lists.envs.net/) - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
+- [bbj](https://bbj.envs.net/) [x] - forum
+- [email](https://mail.envs.net/) [x] - webmail
+- [mailing lists](https://lists.envs.net/) [-] - list archives are available [on the web here](https://lists.envs.net/hyperkitty/).
 <br /><br />
-- [gopher proxy](https://gopher.envs.net/) - defaults to our local gopher: `gopher://envs.net`<br />(on port 70)
-- [gemini proxy](https://gemini.envs.net/) - defaults to our local gemini: `gemini://envs.net`<br />(on port 1965)
+- [gopher proxy](https://gopher.envs.net/) [x] - defaults to our local gopher: `gopher://envs.net`<br />(on port 70)
+- [gemini proxy](https://gemini.envs.net/) [x] - defaults to our local gemini: `gemini://envs.net`<br />(on port 1965)
 <br /><br />
-- [getwtxt](https://twtxt.envs.net/) - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
-- [pleroma](https://pleroma.envs.net/) - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
+- [getwtxt](https://twtxt.envs.net/) [ ] - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
+- [pleroma](https://pleroma.envs.net/) [ ] - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
 <br /><br />
-- [matrix](https://envs.net/chat/matrix/) - secure, decentralised, real-time communication.
+- [matrix](https://envs.net/chat/matrix/) [ ] - secure, decentralised, real-time communication.
     - [matrix-help.envs.net](https://matrix-help.envs.net/) - help & documentation about matrix/element at envs.net
     - [element-web](https://element.envs.net/) - element-web client for matrix. audio- and video calls are also possible in this.
     - [hydrogen-web](https://hydrogen.envs.net/) - lightweight matrix client with legacy and mobile browser support.
     - [cinny](https://cinny.envs.net/) - cinny is a matrix client focusing primarily on simple, elegant and secure interface.
 <br /><br />
-- [irc](https://envs.net/chat/irc/) - irc network for the tildeverse
-- [thelounge](https://webirc.envs.net/) - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
-- [znc](https://znc.envs.net/) - irc bouncer - please contact [creme](https://envs.net/~creme/) (via matrix or email) to request an account, then log in with your `username` and email password and configure as needed.
+- [irc](https://envs.net/chat/irc/) [-] - irc network for the tildeverse
+- [thelounge](https://webirc.envs.net/) [x] - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
+- [znc](https://znc.envs.net/) [ ] - irc bouncer - please contact [creme](https://envs.net/~creme/) (via matrix or email) to request an account, then log in with your `username` and email password and configure as needed.
 
 ### # public dns-server
 
