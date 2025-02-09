@@ -72,7 +72,7 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 - [getwtxt](https://twtxt.envs.net/) `[ ]` - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
 - [pleroma](https://pleroma.envs.net/) `[ ]` - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
 <br /><br />
-- [matrix](https://envs.net/chat/matrix/) `[ ]` - secure, decentralised, real-time communication.
+- [matrix](https://envs.net/chat/matrix/) `[ ]` - secure, decentralised, real-time communication.<br />(note: temporary email services are blocked on matrix.envs.net!)
     - [matrix-help.envs.net](https://matrix-help.envs.net/) - help & documentation about matrix/element at envs.net
     - [element-web](https://element.envs.net/) - element-web client for matrix. audio- and video calls are also possible in this.
     - [hydrogen-web](https://hydrogen.envs.net/) - lightweight matrix client with legacy and mobile browser support.
