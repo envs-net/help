@@ -12,6 +12,9 @@ no. sorry.
 ## Q: can i remove my account?
 yes sure. please send us an email with your request to: [sudoers@envs.net](mailto:sudoers@envs.net).
 
+## Q: how to get back into my account because I lost the ssh key?
+please send an email with your new ssh-pubkey to: [sudoers@envs.net](mailto:sudoers@envs.net).
+
 ## Q: how can i disable the default byobu-session?
 if you don't want this to happen by default, when you log in to your shell, run `byobu-disable`.
 

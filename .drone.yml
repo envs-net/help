@@ -22,5 +22,5 @@ steps:
     - name: deploy
       commands:
         - cd /var/www/docs/help
-        - sudo -Hu www-data git pull origin master
-        - sudo -Hu www-data mkdocs build
+        - sudo -Hu services git pull origin master
+        - sudo -Hu services mkdocs build
