@@ -1,8 +1,8 @@
 # # user website
 your user page is available under
 
-***https://envs.net/~username/***, ***https://envs.net/u/username/***,<br />
-***https://username.envs.net/*** and ***https://username.envs.sh/***.
+***https://envs.net/~username/***, ***https://envs.net/u/username/*** and<br />
+***https://username.envs.net/***.
 
 the index file location for your page is `~/public_html/` and<br />
 a template for the page can you found in `~/public_html/your_index_template.php`.

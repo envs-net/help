@@ -9,10 +9,10 @@
 ## # the null pointer - aliases
 add the following lines to your aliases file `~/.bash_aliases`
 ```bash
-0file() { curl -F"file=@$1" https://envs.sh ; }
-0pb() { curl -F"file=@-;" https://envs.sh ; }
-0url() { curl -F"url=$1" https://envs.sh ; }
-0short() { curl -F"shorten=$1" https://envs.sh ; }
+0file() { curl -F"file=@$1" https://0x0.st/ ; }
+0pb() { curl -F"file=@-;" https://0x0.st/ ; }
+0url() { curl -F"url=$1" https://0x0.st/ ; }
+0short() { curl -F"shorten=$1" https://0x0.st/ ; }
 ```
 HTTP POST files here:  
 &nbsp;&nbsp;`0file "yourfile.png"`
