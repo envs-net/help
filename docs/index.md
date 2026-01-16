@@ -77,15 +77,14 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 ### # public dns-server
 
 **host:** `dns.envs.net`  
-**ip:** `5.199.130.141`  
+**ip:** `157.180.15.214`  
 **port:** `53`
 
 #### dns-over-tls (dot)
 
 **host:** `dns.envs.net`  
-**ip:** `5.199.130.141`  
+**ip:** `157.180.15.214`  
 **port:** `853`  
-**tls_pubkey_pinset:** `TknTKtNi/lhE270MszuUQlgqk1HnGcUXFAgXSXURD7k=` _(**digest:** `sha256`)_
 
 
 **example unbound config  (`/etc/unbound/unbound.conf`)**
@@ -102,5 +101,5 @@ forward-zone:
    name: "."
    forward-tls-upstream: yes
 
-   forward-addr: 5.199.130.141@853#dns.envs.net
+   forward-addr: 157.180.15.214@853#dns.envs.net
 ```
