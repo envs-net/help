@@ -24,7 +24,7 @@ envs.net has her own dns master & slave server and use an additional slave from 
 
 | Name | Address | Location | Type |
 | --- | --- | --- | --- |
-| ns1.envs.net       | `89.163.145.170`             | Düsseldorf  | master |
+| ns.envs.net        | `77.42.48.118`               | Helsinki    | master |
 | ext.envs.net       | `46.224.100.71`              | Falkenstein | slave  |
 | ext.envs.net       | `2a01:4f8:c17:7692::1`       | Falkenstein | slave  |
 | | | | |
