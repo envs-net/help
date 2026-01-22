@@ -58,6 +58,7 @@ members can be use your email credantials for login. (*username@envs.net* | *you
     - [file drop](https://pad.envs.net/file/)
     - [contacts](https://pad.envs.net/contacts/)
 - [ip address info](https://ip.envs.net/) `[-]`
+- [ntfy](https://ntfy.envs.net/) `[-]` - simple http-based notification service
 
 ### # social / communications
 - [bbj](https://bbj.envs.net/) `[x]` - forum
@@ -77,13 +78,15 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 ### # public dns-server
 
 **host:** `dns.envs.net`  
-**ip:** `157.180.15.214`  
+**ipv4:** `157.180.15.214`  
+**ipv6:** `2a01:4f9:3100:3b2b:0:a:0:21`  
 **port:** `53`
 
 #### dns-over-tls (dot)
 
 **host:** `dns.envs.net`  
-**ip:** `157.180.15.214`  
+**ipv4:** `157.180.15.214`  
+**ipv6:** `2a01:4f9:3100:3b2b:0:a:0:21`  
 **port:** `853`  
 
 
@@ -102,4 +105,5 @@ forward-zone:
    forward-tls-upstream: yes
 
    forward-addr: 157.180.15.214@853#dns.envs.net
+   forward-addr: 2a01:4f9:3100:3b2b:0:a:0:21@853#dns.envs.net
 ```
