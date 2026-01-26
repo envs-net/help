@@ -21,6 +21,6 @@ trigger:
 steps:
     - name: deploy
       commands:
-        - cd /var/www/docs/help
+        - cd /var/www/help.envs.net
         - sudo -Hu services git pull origin master
         - sudo -Hu services mkdocs build
