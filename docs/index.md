@@ -82,6 +82,10 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 **ipv6:** `2a01:4f9:3100:3b2b:0:a:0:21`  
 **port:** `53`
 
+#### dns-over-https (doh)
+
+**url:** `https://dns.envs.net/dns-query`
+
 #### dns-over-tls (dot)
 
 **host:** `dns.envs.net`  
