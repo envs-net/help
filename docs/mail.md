@@ -1,5 +1,5 @@
 # # user email
-we use the [modoboa](https://modoboa.org/) mail-software on our server - made multidomain email hosting simple.
+we use the [modoboa](https://modoboa.org/) mail-software on our server.
 
 |  |  |  |
 | ------------------------- |:---:|:---:|

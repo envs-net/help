@@ -23,7 +23,7 @@ don't forget to make the scripts executable.
 also you can use 'ssi' (server-side-includes). make sure you do not use a leading `/`.<br />
 example: `<!--#include virtual="cgi-bin/fortune.sh" -->`
 
-### ssgs
+## ssgs
 
 - [mkdocs](https://www.mkdocs.org/) - markdown project documentation tool.
 additional themes are available from the [mkdocs-bootstrap](
@@ -71,3 +71,7 @@ example `index.php`:
 ```php
 <?php header('Location: https://www.w3docs.com/', true, 302); exit(); ?>
 ```
+
+## webring
+
+check out [webring](https://envs.net/ring/) for instructions of how to add your public_html page to the envs webring.
