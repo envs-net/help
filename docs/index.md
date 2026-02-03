@@ -71,11 +71,12 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 - [getwtxt](https://twtxt.envs.net/) `[ ]` - microblogging for hackers - twtxt registry - see [twtxt](https://help.envs.net/blog/#with-twtxt) help page for more infos.
 - [pleroma](https://pleroma.envs.net/) `[ ]` - microblogging - federated social network - _[what is pleroma?](https://blog.soykaf.com/post/what-is-pleroma/)_
 <br /><br />
-- [irc](https://envs.net/chat/irc/) `[-]` - irc network for the tildeverse
-- [thelounge](https://webirc.envs.net/) `[x]` - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
-- [znc](https://znc.envs.net/) `[ ]` - irc bouncer - please contact [creme](https://envs.net/~creme/) (via email) to request an account, then log in with your `username` and email password and configure as needed.
+- [xmpp](https://envs.net/chat/xmpp/) `[x]` - our self-hosted jabber/xmpp instance for local envs users.
+    - [webchat](https://webchat.envs.net/) `[-]` - jabber/xmpp converse.js webclient
 <br /><br />
-- [xmpp](https://envs.net/chat/xmpp/) `[x]` - our self-hosted xmpp instance for local envs users.
+- [irc](https://envs.net/chat/irc/) `[-]` - irc network for the tildeverse
+    - [thelounge](https://webirc.envs.net/) `[x]` - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
+    - [znc](https://znc.envs.net/) `[ ]` - irc bouncer - please contact [creme](https://envs.net/~creme/) (via email) to request an account, then log in with your `username` and email password and configure as needed.
 
 ### # public dns-server
 
