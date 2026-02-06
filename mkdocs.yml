@@ -37,6 +37,7 @@ nav:
         - gopher: gopher.md
         - gemini: gemini.md
         - finger: finger.md
+        - user-wkd: user-wkd.md
     - tutorials:
         - bash guide: tutorials/bash-guide/README.md
         - learn git:
