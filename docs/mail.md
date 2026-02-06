@@ -22,3 +22,8 @@ managesieve is also supported and is available on the default port `4190`.
 
 if you want to use an external managesieve client (like the [thunderbird add-on](https://github.com/thsmi/sieve)).<br />
 you can also set up your filter in the [webmailer](https://mail.envs.net/sfilters/).
+
+## GPG/OpenPGP WKD (Web Key Directory)
+
+You can make your GPG/OpenPGP public key available on the envs.net WKD service for automatic download into many Email clients, which support this standard.  
+more about at: [https://help.envs.net/user-wkd/](user-wkd.md)

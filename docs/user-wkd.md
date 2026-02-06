@@ -12,7 +12,7 @@ After you created your key-pair, it's time to export your public key on your loc
 Now you've exported your public key to your home directory named `~/public_key.gpg`.
 
 ## Upload your public key
-To make your key available to the envs.net WKD service, you need to upload it to your shell account with the name `~/.public_key.gpg` (notice the dot infront of the filename). This is done with the following command: `scp ~/public_key.gpg <username>@envs.net:~/.public_key.gpg`. That's it, although your key isn't available immediately.
+To make your key available to the envs.net WKD service, you need to upload it to your shell account with the name `~/.public_key.gpg` (notice the dot infront of the filename). This is done with the following command: `scp ~/public_key.gpg username@envs.net:~/.public_key.gpg`. That's it, although your key isn't available immediately.
 
 ## System cron job to update your uploaded key
 All the key files in all the users directorys ( `~/.public_key.gpg` ) are uploaded to the WKD service with a system cron job run every 12 hours. So you may need to wait some time until it gets available. The same goes, when you update or change your key.
