@@ -79,6 +79,7 @@ members can be use your email credantials for login. (*username@envs.net* | *you
     - [znc](https://znc.envs.net/) `[ ]` - irc bouncer - please contact [creme](https://envs.net/~creme/) (via email) to request an account, then log in with your `username` and email password and configure as needed.
 
 ### # public dns-server
+***note:*** *query/request logging is off!*
 
 **host:** `dns.envs.net`  
 **ipv4:** `157.180.15.214`  
