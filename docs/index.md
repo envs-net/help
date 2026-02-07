@@ -2,7 +2,8 @@
 
 [https://envs.net | environments](https://envs.net) - *since 9/2019*
 
-> *write on irc `#envs` at irc.tilde.chat*<br />
+> *write on irc `#envs` at irc.tilde.chat or*<br />
+> *via xmpp (jabber) at `envs@conference.envs.net`*<br />
 > *for any help requests and community support.*
 
 **[> envs news and blog on pleroma](https://pleroma.envs.net/envs)**
