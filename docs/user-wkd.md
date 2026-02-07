@@ -23,8 +23,13 @@ You can check the availability of your public key on the WKD service on this web
 **But remember**: It can take up to 12 hours until your key gets  available to the WKD service of envs.net.
 
 ## Setting up GnuPG to use WKD for receiving other peoples public keys
-If you want to automatically receive the keys of your recipients with GnuPG, you have to add the following option to your local `~/.gnupg/gpg.conf` file:
-`auto-key-locate dane,cert,pka,wkd,hkps://keys.openpgp.org`.
+If you want to automatically receive the keys of your recipients with GnuPG, you have to add the following option to your local `~/.gnupg/gpg.conf` file:  
+
+```
+auto-key-locate dane,cert,wkd,keyserver
+keyserver hkps://keys.openpgp.org/
+trust-model tofu+pgp
+```
 
 Now your gpg client is able to fetch the public keys of your repicients if they are available at all. It will also use different methods to fetch a recipients public key additionally, for example querying the keys.openpgp.org server for a key.
 
