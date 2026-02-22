@@ -20,7 +20,7 @@ further mail settings such as password change and email forwarding can be found 
 
 managesieve is also supported and is available on the default port `4190`.
 
-if you want to use an external managesieve client (like the [thunderbird add-on](https://github.com/thsmi/sieve)).<br />
+if you do not want to use an external managesieve client (like the [thunderbird add-on](https://github.com/thsmi/sieve)).<br />
 you can also set up your filter in the [webmailer](https://mail.envs.net/sfilters/).
 
 ## GPG/OpenPGP WKD (Web Key Directory)
