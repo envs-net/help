@@ -1,7 +1,7 @@
-# GPG/OpenPGP WKD (Web Key Directory) for envs.net email
+# GPG/OpenPGP WKD/WKS (Web Key Directory) for envs.net email
 *user script by [~dan](https://dan.envs.net/)*
 
-You can make your GPG/OpenPGP public key available on the envs.net WKD service for automatic download into many Email clients, which support this standard.
+You can make your GPG / OpenPGP public key available on the envs.net WKD service for automatic download into many Email clients, which support this standard.
 
 ## Generate a GPG key pair for your email
 There is a good [Youtube Tutorial](https://www.youtube.com/watch?v=1vVIpIvboSg) for creating a key pair. I would recomment the recent defaults. The  only reason to use the `gpg --full-gen-key` command instead of the simpler `gpg --gen-key` is, that you can add a comment to your key. But you should go with the defaults however. And be sure to enter the right email address: `username@envs.net`.
@@ -51,3 +51,6 @@ Please understand, that we can't always give help for every email client out the
 But WKD gets broader reception more and more, so there shoud be more and more email clients supporting WKD. Personally I've set up NeoMutt to use GnuPG with WKD and as far as I know, Thunderbird (maybe with the 'enigma' plugin) also supports WKD.
 
 If you know of any email client supporting WKD, please let us know and we will maybe maintain a list of them.
+
+# Service name
+The service is usually called WKD (Web Key Directory), however some documentation calls it WKS (Web Key Service), e.g. the gpg client mode is called gpg-wks-client.
