@@ -74,7 +74,7 @@ members can be use your email credantials for login. (*username@envs.net* | *you
 <br /><br />
 - [xmpp](https://envs.net/chat/xmpp/) `[x]` - our self-hosted jabber/xmpp instance for local envs users.
     - [webchat](https://webchat.envs.net/) `[-]` - jabber/xmpp converse.js webclient
-- [mumble](https://envs.net/chat/) `[]` - voice chat
+- [mumble](https://envs.net/chat/) `[-]` - voice chat
 <br /><br />
 - [irc](https://envs.net/chat/irc/) `[-]` - irc network for the tildeverse
     - [thelounge](https://webirc.envs.net/) `[x]` - irc webclient - runs in private mode: it stays connected for you. run `webirc` to create a login.
