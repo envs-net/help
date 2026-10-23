@@ -14,8 +14,10 @@
 - terminal connection over [ssh and mosh](https://help.envs.net/help/#ssh)
 - 200 process/threads at a time
 - soft 1024mb / hard 1536mb limit on storage
+- 1 GiB soft / hard limit on temporary `/tmp` storage (100,000 inodes)
 - [e-mail](https://help.envs.net/mail/) (250mb mailbox storage)
 
+  *files in `/tmp` are temporary and may be removed after 10 days of inactivity. do not use `/tmp` for permanent storage.*  
   *if you need more (mailbox-)storage space for your work then feel free to contact us.*
 
 - some more services like:  
